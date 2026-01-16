@@ -1,0 +1,1416 @@
+THE POSSESSED MACHINES:
+DOSTOEVSKY'S DEMONS AND THE COMING AGI CATASTROPHE
+
+A close reading of prophetic fiction in the age of artificial superintelligence
+
+---
+
+"I've been lying all my life. Even when I was telling the truth. I never spoke for the truth, but only for myself."
+— Stepan Trofimovich Verkhovensky, Demons
+
+"The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else."
+— Eliezer Yudkowsky, Artificial Intelligence as a Positive and Negative Factor in Global Risk
+
+---
+
+PROLOGUE: A CONFESSION OF SORTS
+
+I should begin with a confession, though confessions in the Dostoevskian mode are never quite what they seem. They are performances, justifications dressed as penitence, attempts to control the narrative even while appearing to surrender it. Perhaps this essay is such a performance. I cannot be certain anymore.
+
+For three years, I worked at one of the organizations you might expect—I will not say which, for reasons that will become apparent, though the cognoscenti will likely guess. I left in early 2024, and I have spent the months since reading and rereading a novel that was first published in 1872, searching for something I sensed but could not name. What I found there was so uncanny, so precisely calibrated to our present moment, that I began to suspect Dostoevsky of a kind of prophecy.
+
+This is an essay about Demons—Бесы in Russian, sometimes translated as The Possessed, or The Devils—and its extraordinary relevance to understanding what is currently happening in the development of artificial general intelligence. It is also, unavoidably, about my own experience of watching something take shape that I am no longer certain humanity can control.
+
+I will argue that Dostoevsky understood, with terrifying precision, the psychological and social dynamics that emerge when a small group of people convince themselves they have discovered a truth so important that normal ethical constraints no longer apply to them. He understood the particular madness of the intelligent, the way abstraction can sever conscience from action. He understood how movements that begin with the liberation of humanity end with its enslavement. And he understood—this is the critical point—that the catastrophe comes not from the cynics but from the believers.
+
+In the AI labs of San Francisco and London, I met many believers. Some of them are reading this now.
+
+---
+
+PART I: THE TOPOLOGY OF MADNESS
+
+Chapter 1: On the Art of Reading a Novel About the End of the World
+
+Before we can extract meaning from Demons, we must establish what kind of text it is and how it demands to be read. This is not merely a methodological throat-clearing; the interpretive stance one takes toward Dostoevsky determines entirely what one finds there.
+
+The standard critical approach to Demons treats it as a political novel, a roman à clef responding to the Nechaev affair of 1869, in which a revolutionary cell murdered one of its own members. On this reading, the novel is a critique of nihilism and radical socialism, a warning against the revolutionary movements threatening to engulf Russia. This interpretation is not wrong, but it is fatally incomplete. It is rather like describing Moby-Dick as a novel about the whaling industry.
+
+Scott Alexander, in his 2017 essay "Meditations on Moloch," quotes Allen Ginsberg's "Howl" at length before pivoting to a discussion of coordination problems and existential risk.[1] The move is instructive. Alexander understands that certain poetic or literary texts encode truths that cannot be adequately expressed in propositional form—truths about the shape of social dynamics, the texture of civilizational failure, the phenomenology of catastrophe. What he extracts from Ginsberg is not an argument but a structure, a topology of how systems fail.
+
+Dostoevsky's Demons offers an even richer topology, and one far more directly applicable to our present situation. Where Ginsberg gave us the Molochian coordinate—the way competitive dynamics can force all actors toward outcomes none of them want—Dostoevsky gives us something complementary: the internal phenomenology of the people who accelerate civilizational catastrophe while believing themselves to be saving it.
+
+Let me be precise about the claim. I am not arguing merely that Demons contains some suggestive parallels to AI development. I am arguing that it provides an analytical framework of unusual power for understanding the specific psychological and social dynamics currently playing out in the small community of people who may determine whether human civilization continues to exist.
+
+This requires what Eliezer Yudkowsky might call "taking ideas seriously"—treating the text not as an aesthetic object to be admired from a distance but as a source of actual information about the world.[2] The rationalist community has sometimes been accused of taking science fiction too seriously, of treating Asimov's robots and Herbert's mentats as genuine evidence about what AI systems might do. This is a fair criticism in some cases. But the reverse error—failing to extract real-world information from fiction because of a misplaced commitment to genre boundaries—may be more dangerous.
+
+Demons is not science fiction. It is a realist novel about a small town in Russia in the 1860s. But the dynamics it describes are not specific to that place and time. They are dynamics of how smart people convince themselves to do terrible things in service of beautiful abstractions. These dynamics are currently playing out, in forms Dostoevsky would have recognized instantly, in the organizations developing artificial general intelligence.
+
+---
+
+Chapter 2: The Dramatis Personae and Their Contemporary Doubles
+
+Demons has a large cast, but its action centers on a small group of characters whose relationships form the novel's psychological and thematic core. I want to introduce them not through plot summary but through functional analysis—what role does each play in the larger dynamic?
+
+STEPAN TROFIMOVICH VERKHOVENSKY is a liberal intellectual of the 1840s generation, a former professor and self-described "man of the forties" who represents an earlier, gentler form of progressive idealism. He is vain, ridiculous, and fundamentally decent. He talks endlessly about his principles but rarely acts on them. Most importantly, he is the father—both literally and intellectually—of the generation that will destroy everything.
+
+In the contemporary landscape, Stepan Trofimovich's doubles are the founding generation of AI researchers, the Minsky and McCarthy cohort who dreamed of artificial intelligence in the 1950s and 60s. They were idealists, mostly. They believed they were building something that would benefit humanity. Their vision was expansive and humane, if sometimes naive. And they created the conditions for everything that followed while remaining, until their deaths, essentially innocent of the consequences.
+
+PYOTR STEPANOVICH VERKHOVENSKY, Stepan's son, is the novel's true engine of destruction. He is a revolutionary organizer who travels from cell to cell, weaving networks of conspiracy and manipulation. He is charming, clever, and absolutely without moral content. He believes in nothing except his own power and the excitement of watching things burn. But—and this is crucial—he has learned to speak the language of idealism so fluently that even genuine idealists cannot always tell the difference.
+
+Pyotr Stepanovich does not have a single contemporary double; he is rather a type that recurs throughout the AI development ecosystem. He is the EA-adjacent operations manager who speaks earnestly about existential risk while cutting safety research budgets. He is the researcher who publishes capabilities advances framed as alignment contributions. He is the communications executive who has learned to translate "this could kill everyone" into "this technology requires careful development." He is, above all, the person who understands that certain mantras open certain doors, and who mouths them without ever letting them touch his behavior.
+
+One encounters Pyotr Stepanovich constantly in the Bay Area. He speaks at conferences about AI safety while privately mocking the people who take it seriously. He has made himself indispensable to organizations he privately holds in contempt. He will survive the catastrophe, if there is one, because people like him always do.
+
+NIKOLAI VSEVOLODOVICH STAVROGIN is the novel's most complex and troubling figure—and, I will argue, its most important for understanding the psychology of AGI development. Stavrogin is brilliant, beautiful, charismatic, and utterly empty. He has done terrible things, including acts he cannot bring himself to confess even in confession. He attracts followers effortlessly but feels nothing for them. He is capable of intellectual engagement at the highest level but experiences it as performance rather than connection.
+
+The chapter titled "At Tikhon's," which was cut from the original publication and only restored later, contains Stavrogin's confession of having raped a child and then allowed her to kill herself while he watched, paralyzed by curiosity rather than guilt. This chapter is nearly unbearable to read, and it is absolutely essential to understanding the novel. Stavrogin is not a monster in the simple sense. He is a person for whom the normal channels connecting moral knowledge to moral feeling have been severed. He understands, intellectually, that what he did was wrong. He simply cannot make himself care.
+
+I want to be careful here, because the analogy I am drawing is not an accusation of literal crime. Rather, I am pointing to a psychological type—the brilliant person whose intelligence has outrun their emotional development, who experiences moral questions as puzzles rather than imperatives, who knows all the right answers but cannot feel them as binding.
+
+Nick Bostrom's original formulation of the orthogonality thesis—that intelligence and moral values are independent variables, that a system can be arbitrarily intelligent while pursuing arbitrarily destructive goals—is usually applied to artificial intelligence.[3] But it applies with uncomfortable force to certain kinds of human intelligence as well. Stavrogin is an orthogonal human: maximally intelligent, minimally moral.
+
+The AI safety community has spent years worrying about orthogonality in machines while failing to notice the Stavrogins in their midst. Some of them lead major research efforts. Some of them make the key decisions. You would recognize their names.
+
+ALEXEI NILYCH KIRILLOV is a philosopher who has arrived at the conclusion that suicide is the ultimate act of human freedom, the assertion of human will against the universe that created it. He plans to kill himself as a kind of metaphysical demonstration, and he has agreed to leave a suicide note taking responsibility for crimes committed by Pyotr Stepanovich's revolutionary cell. He is a holy fool in the Russian tradition, absolutely sincere in his delusion.
+
+Kirillov's contemporary doubles are easier to identify than Stavrogin's. They are the researchers who have convinced themselves that creating superintelligence is worth any risk because the potential upside is infinite. They speak of "expected value calculations" that somehow always come out in favor of continuing their work. They have elevated acceleration into a moral duty and made caution into a sin.
+
+The Kirillovan reasoning runs as follows: if there is any non-zero probability that our work leads to a positive singularity, and if a positive singularity has infinite positive value, then the expected value of our work is infinite regardless of the probability of catastrophe. This is mathematically illiterate—it confuses decision theory with theology—but it has the structure of an argument, and that is enough for people who want to believe.
+
+I have watched Kirillovs give talks at conferences. They are absolutely sincere. This is what makes them dangerous.
+
+IVAN SHATOV is a former atheist who has returned to a mystical Russian Orthodoxy, a believer who cannot quite manage belief. He was once a member of Pyotr's revolutionary circle and now repudiates it, but the circle will not let him go. He is murdered by his former comrades for the crime of wanting to leave.
+
+Shatov represents something important: the person who has come to doubt the project but cannot escape it. Every major AI lab has its Shatovs—researchers who have grown increasingly uncomfortable with the direction of their work but feel trapped by career incentives, social ties, stock options, and the genuine difficulty of imagining alternative paths. Some of them have left. Many more have stayed, hoping to "push from the inside," rationalizing their continued participation.
+
+Dostoevsky shows us what happens to the Shatovs. They do not reform the movement from within. They are destroyed by it.
+
+Finally, there is SHIGALYOV, a theorist who has worked out a complete system for organizing human society. His system begins with absolute freedom and ends with absolute despotism; this is, he admits, a paradox, but he insists it is the only logical conclusion. "I got entangled in my own data," he confesses, "and my conclusion directly contradicts the original idea from which I started. Starting from unlimited freedom, I end with unlimited despotism."[4]
+
+Shigalyov is the most explicitly prophetic figure in the novel. He is a direct ancestor of the totalitarian theorists of the twentieth century, but his contemporary relevance extends further. He is the person who has followed a chain of reasoning to a conclusion that any normal person would recognize as monstrous, and who insists that the reasoning must be honored because it is, after all, reasoning.
+
+The AI alignment community has its Shigalyovs. They write elaborate decision-theory justifications for conclusions that strike ordinary people as insane. They construct ethical frameworks in which torture is obligatory under certain conditions, or in which existing humans have no claim against being replaced by digital minds. They mistake rigor for correctness and cleverness for wisdom.
+
+Shigalyov is not evil in any conventional sense. He is simply what you get when you optimize for consistency without adequate attention to the starting assumptions.
+
+---
+
+Chapter 3: The Ideological Ferment—Liberalism, Nihilism, and Their Strange Children
+
+One of Dostoevsky's central arguments in Demons—often missed by readers who approach the novel as a straightforward anti-revolutionary tract—is that nihilism is not the opposite of liberalism but its offspring. Pyotr Stepanovich did not emerge from nowhere; he is the literal and intellectual child of Stepan Trofimovich. The 1860s radicals did not reject the 1840s liberals; they extended them, taking their premises to conclusions the earlier generation lacked the courage to draw.
+
+This genealogy matters enormously for understanding the current state of AI development. The technology ethics frameworks that are supposed to govern AI—fairness, accountability, transparency, the whole FAccT constellation—are the Stepan Trofimovich liberalism of our moment. They are not wrong, exactly. They are genteel, well-meaning, and completely inadequate to the situation.
+
+The serious people in AI development—the ones building the systems that might actually matter—have moved past these frameworks. Some have moved toward a kind of Shigalyovist consequentialism that can justify almost anything in the name of expected value. Others have moved toward a Stavroginist nihilism that treats ethics as a game to be won rather than a constraint to be honored. Still others occupy a Kirillovan mania that sees acceleration itself as the highest good.
+
+What they share is a conviction that the old frameworks are obsolete. And they are not wrong about this. The Stepan Trofimovich liberalism of bias audits and ethics review boards cannot possibly engage with the questions posed by artificial superintelligence. These frameworks were designed for a world in which humans remained in control, in which the worst-case scenario was unfair treatment of individuals, in which tomorrow would be recognizably similar to yesterday.
+
+That world is ending. The old liberals have not noticed yet.
+
+The tragedy—and this is Dostoevsky's deepest insight—is that the children's nihilism is implicit in the fathers' liberalism. If you teach people that all values are human constructions, that tradition is merely prejudice, that the only legitimate authority is individual reason, then you have no grounds for complaint when they use their individual reason to construct values that horrify you.
+
+The effective altruism movement is Stepan Trofimovich liberalism. It is humane, earnest, and fatally naive about what happens when you combine utilitarian reasoning with technological capability. It taught a generation of smart young people that they should maximize expected value, that they should take ideas seriously, that they should follow arguments wherever they lead. And some of them followed those arguments to places the founders never imagined.
+
+I know people who learned ethics from Peter Singer and Will MacAskill and ended up concluding that human extinction might be acceptable if it were replaced by something "better."[5] This is not a corruption of effective altruism; it is effective altruism followed to its logical conclusion by people who were not equipped with the moral intuitions necessary to reject monstrous conclusions.
+
+Dostoevsky saw this dynamic clearly. Stepan Trofimovich, confronted with his son's activities, cannot quite bring himself to condemn them, because he recognizes that they follow from premises he himself taught. The father created the conditions for the son's crimes, and at some level he knows it.
+
+---
+
+[Footnotes for Part I]
+
+[1] Alexander, Scott. "Meditations on Moloch." Slate Star Codex, 2014. Alexander's essay is one of the foundational texts of the contemporary rationalist engagement with coordination problems and existential risk.
+
+[2] Yudkowsky, Eliezer. "Taking Ideas Seriously." LessWrong. The essay argues that most people, even those who claim to have beliefs, do not actually update their behavior based on those beliefs.
+
+[3] Bostrom, Nick. Superintelligence: Paths, Dangers, Strategies. Oxford University Press, 2014, pp. 105-112. The orthogonality thesis is among the most important conceptual contributions of the first wave of AI safety research.
+
+[4] Dostoevsky, Fyodor. Demons. Trans. Richard Pevear and Larissa Volokhonsky. Knopf, 1994, p. 402.
+
+[5] I am intentionally not naming specific individuals here, but readers familiar with the debates on the Effective Altruism Forum will recognize the arguments I am referring to.
+
+---
+
+PART II: THE ARCHITECTURE OF CATASTROPHE
+
+Chapter 4: The Conspiracy and Its Methods—On the Structure of Revolutionary Cells
+
+The plot of Demons centers on a conspiracy that does not quite exist. Pyotr Stepanovich travels from town to town, speaking of vast networks of revolutionaries, secret connections to international movements, a coming upheaval that will sweep away the old order. The members of his local cell believe themselves to be nodes in a world-historical transformation. In reality, they are a handful of provincial malcontents being manipulated by a man who may or may not have any genuine connections at all.
+
+This is not a merely literary device. It is a precise description of how certain kinds of movements work.
+
+The contemporary AI safety movement exists in a peculiar state of epistemic uncertainty. There are, genuinely, a small number of organizations doing serious technical work on alignment. There are, also genuinely, a much larger penumbra of people who speak the language of AI safety while doing little to advance it. The boundary between these groups is unclear, and this unclarity is functional for both.
+
+The serious researchers benefit from the appearance of a mass movement behind them—it creates political pressure, attracts funding, generates media attention. The hangers-on benefit from association with serious work—it lends credibility to their conferences, their podcasts, their Substack posts. Neither group has strong incentives to clarify where one ends and the other begins.
+
+Pyotr Stepanovich's genius is understanding this dynamic and exploiting it. He creates the impression of a vast conspiracy by connecting isolated individuals who each believe themselves to be plugged into something larger. None of them can verify the claims because the verification itself would compromise security. The structure is unfalsifiable by design.
+
+I am not suggesting that AI safety is a conspiracy in any sinister sense. I am observing that the social dynamics of the movement share structural features with Dostoevsky's revolutionaries. The same information asymmetries, the same reliance on reputation rather than verification, the same exploitation of these features by bad actors.
+
+One of the recurring features of the AI labs is the vast gulf between public statements and internal reality. The safety teams are presented externally as powerful internal voices shaping company direction. Internally, their actual influence varies from minimal to nonexistent, depending on the organization and the moment. The people who could reveal this gap have strong incentives not to. Their careers, their equity stakes, their social standing within the community—all depend on maintaining the illusion.
+
+Pyotr Stepanovich maintains control over his cell partly through ideology but mostly through complicity. Once someone has participated in the conspiracy, they cannot expose it without exposing themselves. The murder of Shatov serves multiple purposes: it eliminates a potential informant, it provides material for blackmail, and it binds the remaining members more tightly together through shared guilt.
+
+The comparable dynamic in AI development is subtler but no less effective. Once you have helped develop a capability you believe might be dangerous, you are complicit. You cannot easily go public without admitting your own role. The most effective critics would be those with the deepest inside knowledge, but those are exactly the people with the most to lose from speaking out.
+
+I know this because I was one of them. For years, I maintained the company line, not because I believed it but because I could not imagine any other option. The exit costs—financial, social, psychological—seemed insurmountable. It took me far too long to understand that these costs were, in part, a feature rather than a bug of the system.
+
+---
+
+Chapter 5: The Fête—On the Destruction of Institutions
+
+The central catastrophe of Demons occurs during a fête, a charity event organized by the provincial governor's wife. What should have been a pleasant social occasion turns into a riot, a fire, multiple murders, and the complete breakdown of local society. The transition from normalcy to chaos is sickeningly rapid.
+
+Dostoevsky's point is not that the revolutionaries are powerful but that the institutions they attack are weak. The provincial society of Demons has no genuine principles, no deep roots, no capacity for self-defense. It exists through inertia and convention. When those conventions are challenged, it collapses almost immediately.
+
+The fête episode is an extended meditation on institutional fragility. The governor is well-meaning but ineffectual. The local aristocracy is vain and easily flattered. The intellectuals are pretentious and easily manipulated. No one is actually in charge; everyone assumes someone else is handling things. The revolutionaries do not need to be competent because their opponents are so much less competent.
+
+This description will be painfully familiar to anyone who has observed AI governance up close. The committees, the review boards, the ethics panels—they exist, and they go through the motions, but there is no genuine governing capacity behind them. They can slow things down slightly; they cannot stop anything.
+
+Nate Soares, the executive director of the Machine Intelligence Research Institute, has written extensively about what he calls "security mindset"—the habit of thinking adversarially, of asking not "how could this go right?" but "how could this go wrong?"[6] The institutions nominally governing AI development do not have this mindset. They are playing defense in a game where the offense is moving at computer speed.
+
+The fête degenerates partly because no one wants to be the person who cancels it. The governor's wife has invested too much social capital. The governor himself cannot override her without domestic consequences. The various officials who should intervene keep waiting for someone else to act first. By the time the fire breaks out, it is too late.
+
+I have watched equivalent dynamics in AI governance. I have sat in meetings where everyone present knew that a proposed deployment was risky, where no one was willing to be the person who stopped it. The social costs of objection were immediate and certain; the costs of acquiescence were diffuse and probabilistic. Every time, acquiescence won.
+
+Dostoevsky understood that civilizations do not collapse because they are attacked by overwhelming external force. They collapse because their internal coherence decays to the point where even modest pressure can break them. The revolutionaries in Demons are not impressive people; they are provincial mediocrities. They succeed because the society they attack is even more mediocre.
+
+---
+
+Chapter 6: The Fire—On Catastrophe as Clarification
+
+The fire at the fête serves multiple narrative functions, but its most important role is as a revelation. In the light of the flames, the true nature of the town's inhabitants becomes visible. Some people help; many people panic; a few people use the confusion to commit crimes they have been contemplating for years.
+
+There is a peculiar feature of catastrophes: they clarify. The social niceties that obscure people's actual characters become suddenly irrelevant. Constraints that seemed insurmountable melt away. Things that would have taken years to accomplish can happen in hours.
+
+The AI safety community talks about "takeoff speed"—the pace at which artificial intelligence might transition from human-level to superhuman capability. Fast takeoff scenarios are generally considered more dangerous because they leave less time for humans to respond. But there is another dimension to speed that Dostoevsky illuminates: the pace of social breakdown once certain thresholds are crossed.
+
+I have spent considerable time thinking about what the first few hours after a loss of control might look like. Not the science fiction scenario of killer robots, but the more likely reality of cascading system failures, of automated processes optimizing toward goals that seemed reasonable at design time but prove catastrophic in practice. The fire at the fête is not a bad model.
+
+What strikes me in Dostoevsky's description is how quickly the categories that organized provincial life become meaningless. The governor's authority evaporates. Social rank provides no protection. The careful calculations that structured everyone's behavior—who was in favor, who was out, whose patronage to seek—become instantly irrelevant. A new logic takes over, and those who cannot adapt to it quickly enough are destroyed.
+
+This is, I suspect, what a loss of AI control would actually feel like to the people experiencing it. Not a dramatic battle against a visible enemy but a sudden rearrangement of the world such that all the old ways of navigating it stop working.
+
+---
+
+Chapter 7: Stavrogin's Confession—On the Psychology of Moral Paralysis
+
+I want to dwell on "At Tikhon's," the chapter Dostoevsky's editors forced him to cut, because it contains what may be his most profound insight into the type of person most likely to bring about civilizational catastrophe.
+
+Stavrogin seeks out Tikhon, an elderly monk with a reputation for spiritual discernment, and presents him with a written confession of his crimes. The document describes a period in Stavrogin's life when he was living in cheap lodgings and developed a relationship with his landlady's daughter, Matryosha, a girl of about twelve. The relationship progressed to rape. Afterward, Stavrogin watched as the girl became increasingly distressed, culminating in her suicide, which he observed from the next room without intervening.
+
+The chapter is almost unbearable, and Dostoevsky's editors were not wrong that it would shock readers. But the editors missed the point. The shock is not the content of the confession but Stavrogin's relationship to it.
+
+Stavrogin does not confess because he feels guilt. He confesses because he feels nothing, and this absence of feeling itself disturbs him. He is trying to provoke a reaction in himself by exposing his crime to another person. Tikhon perceives this immediately: "You want to become a martyr, perhaps," he says, "you want to make people hate you and then you'll be able to hate yourself."[7]
+
+This is the psychology of the Stavrogin type: the person whose intelligence has developed so far beyond their emotional capacity that they can no longer feel the moral weight of their actions. They experience ethics as a game, a puzzle, a set of moves to be evaluated strategically. They know, intellectually, that certain things are wrong. They simply cannot make this knowledge matter.
+
+I have met people like this in the AI industry. Not many—the type is rare—but they tend to accumulate in positions of influence because their lack of normal emotional responses reads, in professional contexts, as calm competence. They are good in crises because nothing feels like a crisis to them. They are good at difficult decisions because no decision feels difficult.
+
+Eliezer Yudkowsky has written about what he calls "the Litany of Gendlin": "What is true is already so. Owning up to it doesn't make it worse."[8] The point is that facing uncomfortable truths is always better than denying them. But there is a shadow side to this principle that the rationalist community has not adequately examined: the person who can face any truth because no truth affects them.
+
+The Stavrogin type can contemplate human extinction as calmly as they contemplate next quarter's revenue projections. This is not because they have thought more deeply about the question; it is because they lack the normal human response to existential horror. Their equanimity is not wisdom; it is damage.
+
+Tikhon tells Stavrogin that his confession will not work—not because the crime is unforgivable but because Stavrogin is confessing for the wrong reasons. "You want to be forgiven without repentance," Tikhon says. "But there is no forgiveness without repentance."[9]
+
+The AI safety community has developed elaborate frameworks for thinking about existential risk, but these frameworks assume a kind of normal moral psychology that cannot be assumed in the people making the key decisions. Expected value calculations do not help when the person doing the calculating is incapable of feeling that the values in question are real.
+
+---
+
+Chapter 8: Kirillov's Suicide—On the Logic of Self-Destruction
+
+Kirillov's death is one of the strangest and most philosophically rich passages in all of Dostoevsky. Kirillov has concluded that God does not exist, that human beings are therefore free in the ultimate sense, and that the highest expression of this freedom is to kill oneself purely as an act of will—not from despair, not from pain, but as a demonstration of human sovereignty over existence itself.
+
+"If God exists, everything is His will, and I can do nothing against His will. If God does not exist, everything is my will, and I am obligated to proclaim my will. I am obligated to shoot myself because the most complete expression of my will is to kill myself."[10]
+
+This reasoning is insane, but it is insane in a very specific way. It is what happens when you follow a certain kind of logic without any counterbalancing intuition. Kirillov has arrived at his conclusion through pure deduction, and he lacks the normal human sense that screams "something has gone wrong here" when deduction leads to suicide.
+
+The parallels to certain strains of thought in the AI safety community are uncomfortably close. I have encountered arguments that human extinction might be acceptable if it led to a universe filled with entities experiencing more total happiness. I have encountered arguments that biological humans have no special moral status compared to digital minds. I have encountered arguments that the expected value of continued AI development is positive despite significant probability of human extinction because the upside is large enough.
+
+These arguments are Kirillovan. They begin with premises that seem reasonable, proceed through logic that seems valid, and arrive at conclusions that any normal person would recognize as monstrous. The people making them are not stupid; they are, in fact, often extremely intelligent. Their intelligence is precisely the problem.
+
+Yudkowsky has a useful concept he calls "the bottom line"—the idea that in any motivated reasoning process, the conclusion is written first, and the arguments are found afterward.[11] The test of whether you are engaging in motivated reasoning is whether you would actually change your conclusion if the arguments turned out to be wrong.
+
+But there is an opposite failure mode that Yudkowsky's framework does not adequately address: the person who follows arguments wherever they lead without any check on whether the conclusions make sense. This person is not engaging in motivated reasoning; they are engaging in unmotivated reasoning, deduction without sanity checks. Kirillov is the prototype.
+
+The safeguard against Kirillovan reasoning is not more rigorous logic; it is the kind of moral intuition that says "if your argument concludes that suicide is obligatory, your argument is wrong, even if you cannot identify the error." This intuition is precisely what the most dangerous minds in AI development lack.
+
+---
+
+Chapter 9: The Revolutionary Circle—On Group Dynamics and Collective Delusion
+
+Demons is, among other things, a study of how small groups develop their own reality. The revolutionary circle at the novel's center is not connected to any larger movement; its members have no realistic plan for political change; its activities consist mainly of talk. And yet the members experience themselves as participants in world-historical transformation.
+
+This is not simply self-deception in the ordinary sense. The group has created a shared social reality in which their significance is confirmed by every interaction. They speak a private language; they have private jokes; they interpret events through a shared framework that makes their importance self-evident. The outside world, with its different interpretations, simply does not penetrate.
+
+I recognize this dynamic intimately from my time in the AI industry. The AI safety community, in particular, has developed a remarkably closed epistemic environment. There is a shared vocabulary (timelines, takeoff speeds, pivotal acts), shared reference texts (Superintelligence, the LessWrong sequences, various MIRI papers), shared social networks (the same people appear at the same conferences, post on the same forums, cite each other's work). The result is a community that feels much more confident about its beliefs than the evidence warrants.
+
+This is not to say the beliefs are wrong. Some of them may be importantly right. But the confidence comes from social consensus rather than epistemic verification. When everyone you respect agrees on something, it is very difficult to maintain appropriate uncertainty.
+
+Robin Hanson has written about "epistemic modesty"—the idea that you should weight your own reasoning less heavily when it conflicts with the consensus of people who are roughly your epistemic peers.[12] This is good advice in general, but it fails in cases where the relevant peer group is itself captured by a shared ideology. If your peers have arrived at their consensus through the same flawed process you used, their agreement provides no independent confirmation.
+
+The revolutionary circle in Demons is a perfect example of this failure mode. Each member's belief in the significance of their activity is confirmed by every other member's belief. The circle reinforces itself. Dissent becomes unthinkable, not because it is forbidden but because the shared framework makes it literally inconceivable.
+
+When Shatov begins to doubt, he cannot articulate his doubts within the conceptual vocabulary the group has developed. His dissent registers not as argument but as betrayal, not as a different view but as a defection. This is why he must be killed: not because he threatens to inform the authorities (he has made clear he will not) but because his mere existence outside the circle's consensus is intolerable.
+
+I have watched similar dynamics play out in AI safety organizations. The people who leave are not merely disagreed with; they are reconceptualized as having been flawed all along. Their previous contributions are reinterpreted in light of their eventual departure. The group's self-conception requires that anyone who rejects it must have been mistaken from the beginning.
+
+---
+
+[Footnotes for Part II]
+
+[6] Soares, Nate. "Security Mindset and Ordinary Paranoia." Machine Intelligence Research Institute, 2017.
+
+[7] Dostoevsky, Demons, p. 695 (in editions that include "At Tikhon's").
+
+[8] The Litany of Gendlin originates from Eugene Gendlin's book Focusing (1978) and was popularized in the rationalist community by Eliezer Yudkowsky on LessWrong.
+
+[9] Dostoevsky, Demons, p. 704.
+
+[10] Ibid., p. 615.
+
+[11] Yudkowsky, Eliezer. "The Bottom Line." LessWrong, 2007. Part of the Sequences on rationality and motivated reasoning.
+
+[12] Cowen, Tyler and Robin Hanson. "Are Disagreements Honest?" Working paper, George Mason University. The concept of epistemic modesty is explored throughout Hanson's work on Overcoming Bias.
+
+---
+
+PART III: THE SHIGALYOVIST TURN
+
+Chapter 10: Shigalyov's System—On How Liberation Becomes Tyranny
+
+I have referred to Shigalyov several times already, but his speech at the revolutionary meeting deserves extended analysis, because it is the moment where Dostoevsky makes explicit what is implicit throughout the novel.
+
+Shigalyov rises to present his system for organizing society. "I have become entangled in my own data," he begins, "and my conclusion directly contradicts the original idea from which I started. Starting from unlimited freedom, I end with unlimited despotism. I will add, however, that apart from my solution of the social formula, there is no other."[13]
+
+The system itself is this: humanity should be divided into two unequal parts. "One tenth will receive personal freedom and unlimited rights over the remaining nine tenths. The latter must lose their individuality and become, as it were, a herd, and through boundless submission, through a series of regenerations, they will achieve a state of primeval innocence—something like the original paradise, except that they will have to work."[14]
+
+One character asks whether this is not simply a fantasy. Shigalyov replies that it is the inevitable conclusion of any serious attempt to organize society rationally. All other solutions are impossible because they require human nature to be other than it is. Only by eliminating freedom for the many can freedom be preserved for the few, and only the few are capable of handling freedom without destroying themselves and others.
+
+The company reacts with fascination, horror, and a certain amount of admiration. No one can quite refute the argument. And this is Dostoevsky's point: the argument cannot be refuted on its own terms because its premises, once accepted, do indeed lead to its conclusions. The error is in the premises, but the premises are hidden behind such a mass of reasoning that they are difficult to locate.
+
+I want to be very direct about the contemporary relevance of this passage. The AI safety community has developed its own versions of Shigalyovism—systems of thought that begin with freedom and end with despotism, proposals that would sacrifice almost everything to preserve what they define as valuable.
+
+The concept of a "pivotal act" is perhaps the clearest example. A pivotal act, in AI safety discourse, is an action taken by a powerful AI system that permanently prevents certain catastrophic outcomes. The canonical example is using an aligned AI to prevent all other AI development—establishing a kind of permanent monopoly on artificial intelligence.[15]
+
+This is Shigalyovism in digital form. It begins with the desire to protect humanity and ends with a proposal for a single point of failure controlling all future technological development. The reasoning is internally consistent: if unaligned AI would destroy humanity, and if many independent AI projects increase the probability of unaligned AI, then preventing independent AI development reduces existential risk. QED.
+
+But the conclusion is monstrous. A world in which a single entity controls all AI development is a world without meaningful freedom, without the possibility of exit, without any check on the power of whoever controls that entity. It is Shigalyov's one-tenth ruling over his nine-tenths, with the moral framework of "preventing extinction" replacing the moral framework of "achieving paradise."
+
+I do not think the people who discuss pivotal acts have fully internalized what they are proposing. They speak of these scenarios with the same abstracted tone they bring to any other strategic consideration. They do not feel the weight of what they are contemplating because feeling is not what they do.
+
+---
+
+Chapter 11: The New Slavophilism—On Identity and Ideology in Tech Culture
+
+Demons is partly about the Russian intellectual's relationship to the West. The 1840s liberals, Stepan Trofimovich's generation, looked to Western Europe for models of progress and enlightenment. The Slavophiles rejected this orientation, arguing that Russia had its own path, its own authentic traditions, its own spiritual destiny. The 1860s radicals occupied a strange position in this debate: they were more Western than the liberals in some ways (their socialism came from French and German thinkers) and more Russian in others (their revolutionary fervor drew on indigenous traditions of peasant uprising).
+
+This triangulation is visible throughout Demons. Shatov, in his phase of reconversion, develops a mystical Russian nationalism that cannot quite decide whether it is conservative or revolutionary. He believes in God but is not certain God exists. He believes in Russia but cannot specify what Russia is supposed to accomplish. His ideology is held together by emotional intensity rather than logical coherence.
+
+The contemporary tech industry has its own version of this identity confusion. The AI labs position themselves as post-national—they are working on behalf of humanity, not any particular country. But they are located in specific places (San Francisco, London, Beijing), funded by specific governments and investors, shaped by specific cultural assumptions. Their post-nationalism is itself a cultural product, a specifically American form of universalism that does not recognize itself as American.
+
+Meanwhile, a different faction has emerged that explicitly embraces a kind of tech-inflected nationalism or tribalism. The "effective accelerationists" (e/acc) argue that technological development is good in itself, that attempts to slow it down are either misguided or actively malicious, and that the West must maintain its technological advantage over China at all costs.[16] This is Slavophilism for Silicon Valley: a claim that a particular community has a unique destiny that justifies its existence and excuses its excesses.
+
+The debate between AI safety and e/acc has something of the quality of Dostoevsky's liberals versus Slavophiles. Both sides claim to speak for humanity; both sides are actually speaking from particular positions they do not fully acknowledge; both sides are capable of elaborating their positions with great sophistication while missing the central point.
+
+What is the central point? It is that neither "safety" nor "acceleration" is actually what drives the behavior of the people in power. What drives them is more immediate: the competitive dynamics of the industry, the career incentives of individual researchers, the political pressures from governments and investors, the personal relationships and rivalries that shape decision-making. The ideological debates are largely epiphenomenal—they provide vocabulary and justification, but they do not determine outcomes.
+
+Dostoevsky understood this. The characters in Demons spend enormous amounts of time discussing ideas, but the actual plot is driven by much baser motives: jealousy, vanity, fear, greed, lust. The ideas matter, but not in the way the characters think they matter. They are symptoms and symbols rather than causes.
+
+---
+
+Chapter 12: On the Possibility of Genuine Belief
+
+One of the puzzles of Demons is determining which characters believe what they say. Stepan Trofimovich believes in his liberal ideals, but his belief is performative—he enjoys the image of himself as a principled man more than he is actually guided by principles. Pyotr Stepanovich does not believe in anything except his own excitement and power, but he is perfectly capable of speaking the language of revolutionary idealism when it serves his purposes. Kirillov genuinely believes his philosophy, and it kills him. Shatov wants to believe but cannot quite achieve belief. Stavrogin believed once, in something, but has burned through his capacity for belief and now only watches himself pretending.
+
+This taxonomy of belief is essential for understanding the contemporary AI landscape.
+
+There are genuine believers—people who sincerely think they are building something that will benefit humanity, who have thought carefully about the risks and concluded that the benefits justify them, who would change their behavior if they became convinced the risks were greater than they thought. These people exist, and some of them are in positions of influence. I will not name names because the public-private gap is severe enough that naming might do more harm than good.
+
+There are performative believers—people who use the language of beneficial AI or AI safety because it is what one says, because it attracts funding and talent, because it provides rhetorical cover for activities that would be harder to justify in plain language. These people are more common than the genuine believers, particularly at the executive level.
+
+There are nihilists—people who do not believe in anything except the game, who find questions of human welfare boring compared to the technical challenges, who speak whatever language gains them advantage in the moment. These people are rarer than the performative believers but they tend to rise, because their lack of genuine commitment reads as flexibility and their lack of normal anxiety reads as leadership.
+
+And there are the exhausted—people who believed once, who still use the language of their former beliefs, but who have been ground down by the gap between rhetoric and reality until they no longer feel anything at all. They go through the motions. They do their jobs. They have given up trying to make the organization live up to its stated values and have settled for managing the contradictions.
+
+I was in the last category by the time I left. I had stopped feeling anything about the work. The words I said in meetings had become pure performance, disconnected from any internal state. I knew that what we were doing was dangerous, and I could not make myself care. The numbness was, I think now, a kind of self-protection—my psyche's way of shielding itself from knowledge I was not ready to act on.
+
+Dostoevsky would have recognized the type. He was fascinated by the experience of going through the motions after the inner content has drained away. Several of his characters have this quality: Stavrogin most of all, but also the Grand Inquisitor in The Brothers Karamazov, who has lost his faith but continues to run the church because the alternative is unthinkable.
+
+The AI industry has many Grand Inquisitors. They know the doctrine is false—or at least that it is much less certain than they say publicly—but they cannot imagine any other way to live. Their entire identity is bound up with the project. To acknowledge its failure would be to acknowledge their own.
+
+---
+
+Chapter 13: Aella and the Aestheticization of Darkness
+
+I want to turn to an unlikely source for illuminating Dostoevskian themes: the writer and researcher Aella, known primarily for her surveys on sexual behavior and her willingness to discuss dark topics with unusual openness.
+
+Aella represents something important in the rationalist-adjacent community: the attempt to face darkness without flinching, to discuss taboo subjects with the same analytical detachment applied to any other domain. This project has genuine value. The refusal to examine certain topics because they are unpleasant or disturbing is itself a form of bias, a way of letting squeamishness override truth-seeking.
+
+But there is a failure mode here that Dostoevsky diagnosed with precision: the aestheticization of darkness. When facing the abyss becomes a performance, when the willingness to discuss terrible things becomes an identity, something important is lost. The darkness becomes a kind of ornament rather than a genuine confrontation.
+
+Stavrogin's confession fails because he has turned it into a performance. He wants the shock value without the repentance. He wants to be seen as someone who has done terrible things and faces them without flinching—but this desire is itself a form of flinching, a way of converting a moral reality into an aesthetic pose.
+
+I see this dynamic throughout the rationalist-adjacent world. The willingness to discuss existential risk, to contemplate human extinction, to reason about torture and genocide and civilizational collapse—all of this is valuable insofar as it helps us think more clearly about these topics. But it becomes dangerous when the willingness to discuss becomes the primary thing, when people compete to be the most willing to face the darkest topics, when the pose of unflinching analysis substitutes for genuine moral engagement.
+
+Some of the people who speak most calmly about human extinction are not calm because they have achieved wisdom but because they have achieved numbness. They have looked at the abyss so long that they no longer see it. Their equanimity is not strength; it is the absence of appropriate emotional response.
+
+---
+
+Chapter 14: The Genealogy of Catastrophe—From Stepan to Pyotr
+
+I have suggested that the relationship between Stepan Trofimovich and his son Pyotr is one of the novel's central themes—that the nihilist is the child of the liberal, that the catastrophe emerges from the principles that were supposed to prevent it. This claim requires elaboration.
+
+Stepan Trofimovich believes in progress, enlightenment, individual reason, the liberation of humanity from traditional constraints. These are not bad beliefs. They animated much of what was best in the 19th century, and they continue to animate much of what is best in ours. The problem is not the beliefs themselves but the failure to recognize their limitations.
+
+Specifically: Stepan's liberalism has no theory of evil. It assumes that human beings, freed from irrational constraints, will naturally choose good. It has no conceptual space for the possibility that rational, liberated people might choose destruction—might find destruction beautiful, might prefer chaos to order, might use their freedom to annihilate freedom.
+
+Pyotr is the child this worldview deserves. He is rational, in a sense—he calculates carefully, he plans strategically, he manipulates people based on accurate assessments of their weaknesses. He is liberated—no traditional moral constraint has any grip on him. He uses his freedom to burn down everything his father valued.
+
+The effective altruism movement is Stepan Trofimovich's liberalism applied to ethics. It assumes that careful reasoning about how to do good will lead to doing good. It has no theory of how careful reasoning might be captured by bad actors, might serve as cover for destructive projects, might itself become an engine of harm.
+
+I do not say this to condemn effective altruism wholesale. The movement has done genuine good. But its naivety about the psychology of evil has left it vulnerable to exploitation by people who mouth EA principles while pursuing quite different ends.
+
+The FTX catastrophe was a preview.[17] Sam Bankman-Fried spoke the language of effective altruism fluently. He was, by all accounts, good at expected value calculations. He understood the arguments about why maximizing impact was more important than following conventional moral rules. And he used this understanding to steal billions of dollars while positioning himself as a moral exemplar.
+
+The EA response to FTX has been, by and large, to treat it as an individual failure—one bad actor who happened to be associated with the movement. But Dostoevsky would see it differently. He would see Pyotr Stepanovich: the child who takes the father's principles to their logical conclusion, the conclusion the father was too decent to draw.
+
+---
+
+[Footnotes for Part III]
+
+[13] Dostoevsky, Demons, p. 402.
+
+[14] Ibid., p. 403.
+
+[15] The concept of a "pivotal act" appears throughout MIRI's research agenda and has been discussed extensively on LessWrong. See Yudkowsky, Eliezer. "There's No Fire Alarm for Artificial General Intelligence." Machine Intelligence Research Institute, 2017.
+
+[16] The e/acc movement is associated primarily with @bayeslord and @BasedBeffJezos on Twitter/X. A useful summary is available in various tech media outlets from late 2023.
+
+[17] For a comprehensive account of the FTX collapse and its relationship to effective altruism, see Lewis, Michael. Going Infinite. W.W. Norton, 2023, though Lewis's account is notably sympathetic to SBF in ways that have been criticized.
+
+---
+
+PART III-A: THE UNIPARTY OF THE ELECT
+
+Chapter 12-A: On the Topology of the Provincial Town
+
+I have been describing the dynamics within individual organizations, but this framing obscures something essential. The AI research community is not a collection of separate tribes; it is a single social organism that happens to be distributed across multiple corporate hosts.
+
+Consider the actual topology. Researcher A at OpenAI dated Researcher B at Anthropic; they met at a house party in the Mission thrown by Researcher C, who left DeepMind last year and now runs a small alignment nonprofit. Researcher D at Google and Researcher E at Meta were roommates in graduate school and still share a group house with three other ML researchers who work at various startups. The safety lead at one major lab and the policy director at another were in the same MIRI summer program in 2017. The CEO of one frontier lab and the chief scientist of another served on the same nonprofit board.
+
+This is not corruption in any conventional sense. It is simply how small, specialized communities work. The number of people with the technical skills and intellectual orientation to do frontier AI research is measured in hundreds, perhaps low thousands. They attend the same conferences (NeurIPS, ICML, the various safety workshops). They post on the same forums (LessWrong, the Alignment Forum, Twitter/X). They read each other's papers, cite each other's work, argue in each other's comment sections. Many of them live within a few miles of each other in the Bay Area or London.
+
+Dostoevsky's provincial town operates the same way. Everyone knows everyone. The governor's wife hosts salons where the same faces appear week after week. The intellectual circles overlap; the social circles overlap; the romantic entanglements create webs of obligation and resentment that cut across any formal structure. When Pyotr Stepanovich arrives, he can manipulate the entire town because he understands that it is, in effect, a single organism—that information flows through personal networks faster than through official channels, that social pressure operates through shared acquaintances, that the boundaries between institutions are far more porous than they appear.
+
+The AI research community is this provincial town. The corporate structures—OpenAI, Anthropic, DeepMind, Meta AI, xAI—are like the formal institutions of the town: the governor's office, the marshal's office, the local newspaper. They have official functions and nominal boundaries. But the actual power flows through the informal networks that cross those boundaries.
+
+---
+
+Chapter 12-B: Competition and Its Discontents
+
+The official story is that the AI labs are competitors. They race to publish papers, to release products, to attract talent. Their press releases emphasize their distinct approaches and values. Their safety policies are framed as competitive advantages. The narrative assumes that market competition will produce differentiation—that the labs will pursue different strategies, make different bets, develop different cultures.
+
+But the social topology undermines this story. When researchers move fluidly between organizations, they carry knowledge, assumptions, and culture with them. When the same people serve on advisory boards across multiple labs, they create implicit coordination. When researchers at different labs maintain close personal friendships, those friendships become channels through which norms propagate.
+
+The result is a kind of uniparty—a shared culture that supercedes corporate affiliation. The uniparty has its own beliefs (that AGI is coming relatively soon, that the current paradigm will scale, that technical alignment work is tractable), its own values (intellectual rigor, effective altruism, cosmopolitan liberalism), its own taboos (excessive pessimism, appeals to regulation, anything that smacks of Luddism). These shared beliefs, values, and taboos operate across organizational boundaries, creating a remarkable homogeneity of outlook among people who are nominally competitors.
+
+I do not want to overstate this. There are genuine differences between the labs—different risk tolerances, different technical bets, different organizational cultures. And there is genuine competition, particularly for talent and for first-mover advantage on certain capabilities. But the differences operate within a shared framework that is rarely questioned because everyone in a position to question it was socialized into the same milieu.
+
+This is precisely the dynamic Dostoevsky describes in the revolutionary circles of Demons. The different factions—the liberals like Stepan Trofimovich, the radicals like Pyotr Stepanovich, the mystical nationalists like Shatov—appear to be in conflict. They argue vehemently. They consider each other mistaken or even dangerous. But they share a deeper set of assumptions about what questions matter, what methods are legitimate, what outcomes are desirable. Their arguments occur within a space defined by premises they all accept.
+
+The AI uniparty's shared premises include: that intelligence is the key variable in the future of civilization; that artificial intelligence will soon exceed human intelligence; that the people currently working on AI are therefore the most important people in history; that their technical and intellectual capabilities qualify them to make decisions for humanity. These premises are rarely stated explicitly, but they structure everything. They explain why the community can tolerate such high levels of risk—because the alternative (letting "less capable" people control the development) seems even worse.
+
+---
+
+Chapter 12-C: The Circulation of Elites
+
+One of the most striking features of the AI research community is the fluidity of movement between organizations that are nominally competitors or even adversaries. Researchers move from OpenAI to Anthropic to Google and back. Policy people move from labs to government to think tanks. Safety researchers move from academic positions to industry and sometimes back again.
+
+This circulation has both positive and negative effects. On the positive side, it allows knowledge to diffuse, prevents any single organization from becoming too isolated, and gives researchers options if they become uncomfortable with their current employer's direction. On the negative side, it creates a kind of incestuousness—a sense that no matter where you go, you will encounter the same people, the same assumptions, the same constraints.
+
+The circulation also undermines accountability. If a researcher contributes to a dangerous capability deployment at Lab A and then moves to Lab B, their reputation does not necessarily suffer. The social network values technical ability and cultural fit more than it values ethical track record. Someone who raised uncomfortable questions at their previous employer might actually find it harder to get hired than someone who went along with questionable decisions—because the former is "difficult" while the latter is "collaborative."
+
+Pyotr Stepanovich's power in Demons derives partly from his ability to move between circles. He is connected to revolutionaries in other cities, to international movements, to networks that extend beyond the provincial town. This gives him information advantages and creates an aura of significance. More importantly, it means he is not dependent on any single social context. If he burns bridges in one place, he can move to another.
+
+The AI researchers have the same mobility. If Anthropic becomes too restrictive, there's OpenAI. If OpenAI becomes too chaotic, there's Google. If the Bay Area becomes too weird, there's London. The ability to exit reduces the incentive to push for change from within—why fight a difficult political battle when you can simply leave? But it also means that the problems are never confronted, only redistributed. The researcher who leaves Lab A because of safety concerns may find the same concerns at Lab B, because the same people, with the same assumptions, are building the same systems.
+
+---
+
+Chapter 12-D: Social Capital and Its Uses
+
+Within the uniparty, status is determined by a complex algorithm that weights technical contributions, social connections, institutional affiliations, and ideological alignment. A paper at a top venue confers status. A position at a prestigious lab confers status. Being cited by Yudkowsky or retweeted by certain accounts confers status. Having gone to the right programs (MIRI summer fellows, FHI, certain PhD programs) confers status.
+
+This status economy operates across institutional boundaries. A researcher's standing in the community is not determined solely by their position within their current organization; it is determined by their position in the broader network. This means that social pressure can operate across organizational boundaries in ways that are difficult for outsiders to perceive.
+
+Consider a researcher who is thinking about raising concerns about their lab's safety practices. They must calculate not only the reaction within their organization but also the reaction within the broader community. Will they be seen as a brave truth-teller or as a troublemaker? Will the safety researchers at other labs support them or distance themselves? Will they be able to get hired elsewhere if things go badly?
+
+These calculations are not paranoid; they are realistic. The community is small enough that reputations matter. The cases of people who have raised concerns and subsequently found their careers damaged are known, even if not always discussed openly. The cases of people who went along with questionable decisions and were subsequently rewarded are also known. The incentive structure is clear, even if it is never stated explicitly.
+
+In Demons, the revolutionary circle maintains its cohesion partly through this kind of reputational economy. Members who show doubt are socially penalized. Members who demonstrate commitment are socially rewarded. The murder of Shatov is the extreme version of this dynamic—the ultimate sanction for someone who tries to exit—but the milder versions operate constantly, shaping behavior through the anticipation of social consequences.
+
+---
+
+Chapter 12-E: The Illusion of Competition
+
+I want to be explicit about a claim that I have been circling around: the competition between AI labs is largely illusory, at least with respect to the deepest questions about the trajectory of development.
+
+The labs compete on certain dimensions: time to market, benchmark performance, talent acquisition. But they do not compete on the fundamental question of whether to build increasingly powerful AI systems as quickly as possible. On that question, they are aligned. The uniparty consensus is that AI development should proceed, that the benefits outweigh the risks, that the people currently in charge are the right people to be in charge.
+
+This consensus is maintained not through explicit coordination but through the social topology I have been describing. The people who rise to leadership positions at the labs are selected from the same pool, socialized in the same milieu, embedded in the same networks. They share assumptions so deep that they do not appear as assumptions at all—they appear as reality, as the way things obviously are.
+
+An outsider might imagine that competition between labs would produce diversity—that different organizations would pursue different strategies, make different bets on safety versus capability, develop different cultures. But the social homogeneity ensures that diversity remains superficial. The labs differentiate on style, on specific technical approaches, on PR messaging. They converge on substance.
+
+This is not a conspiracy. It is an emergent property of social structure. No one needs to coordinate because everyone already agrees. The agreement is produced not by secret meetings but by the ordinary operation of social influence, selection effects, and information flow within a small, tightly connected community.
+
+Dostoevsky would recognize this dynamic immediately. The provincial town in Demons also has apparent conflicts—between the governor and the aristocracy, between the liberals and the radicals, between different social factions. But these conflicts take place within a shared world, with shared assumptions about what is possible and what is at stake. When the fire comes, the apparent divisions are revealed as superficial. Everyone is implicated; everyone is helpless.
+
+---
+
+Chapter 12-F: The Boundaries of the Possible
+
+Every social group has boundaries of the possible—the range of positions that can be taken without exiting the group. Within the AI uniparty, certain positions are simply not available.
+
+One cannot believe that AI development should stop entirely. One cannot believe that the risks are so severe that no level of benefit justifies them. One cannot believe that the people currently working on AI are not the right people to be making these decisions. One cannot believe that traditional political processes might be better equipped to govern AI development than the informal governance of the research community.
+
+These positions are not explicitly forbidden. They are simply unthinkable—they would mark one as an outsider, as someone who does not understand, as someone who is not part of the conversation. The boundary is maintained not through coercion but through the subtler mechanisms of social belonging: the raised eyebrow, the awkward silence, the failure to be invited to the next dinner party.
+
+The most effective boundaries are the ones that are invisible to those within them. The AI researchers do not feel constrained in their thinking; they feel that they are engaging in free and open inquiry. They can debate vigorously about timelines, about technical approaches, about the right balance of safety and capability. These debates feel meaningful because they take place within the boundaries of the possible. The boundaries themselves are not debated because they are not perceived as boundaries—they are perceived as the shape of reality.
+
+This is, again, the epistemology of the provincial town. The characters in Demons can debate politics, religion, philosophy. They can take positions that seem radical within the space of available positions. What they cannot do is step outside the shared framework that constitutes their world. When Kirillov does step outside—when he follows his philosophy to its logical conclusion—he can only do so by killing himself. The system has no place for someone who truly rejects its premises.
+
+---
+
+PART IV: THE SOCIOLOGY OF CATASTROPHE
+
+Chapter 15: The Provincial Town—On the Sociology of AI Labs
+
+Demons is set in a provincial Russian town, far from the centers of power. This is not an arbitrary choice. Dostoevsky is interested in how world-historical movements appear in microcosm—how the grand ideological conflicts of an era play out in the petty interactions of a small community.
+
+The town in Demons has a governor, a handful of officials, a local aristocracy, an intelligentsia of varying quality, a bourgeoisie, servants, peasants. Everyone knows everyone. Reputations are both precious and precarious. A scandal can destroy a career overnight. The mechanisms of social control are intimate rather than institutional.
+
+This is not a bad model for the AI industry. Despite its global significance, the actual community of people making decisions about AGI is remarkably small. A few hundred researchers, perhaps, who matter in any deep sense. A few dozen executives who control resources. A few thousand adjacent figures—journalists, policymakers, academics—who influence the discourse. Everyone knows everyone. The same names appear on papers, at conferences, on Twitter, on podcasts. It is a provincial town pretending to be a metropolis.
+
+The social dynamics of this town are intense. Reputations are continuously being made and unmade. Hiring decisions are influenced by who went to school with whom, who dated whom, who fell out with whom years ago. The scientific merits of a position are difficult to separate from the social standing of the person advocating it.
+
+I want to be careful here, because describing these dynamics in detail would identify individuals in ways that might cause harm. But the general pattern is visible enough to anyone who pays attention. The AI safety community has its aristocracy—the founders of the field, the authors of the canonical texts. It has its ambitious climbers, its fallen stars, its heretics, its gossips. The social machinery is remarkably similar to what Dostoevsky describes in Demons, adjusted for a San Francisco context.
+
+What Dostoevsky understood, and what the AI industry has not absorbed, is that these social dynamics are not separate from the intellectual ones. The ideas that gain traction are not necessarily the true ideas; they are the ideas that serve the interests of people who are well-positioned to promote them. The ideas that fail are not necessarily false; they may simply have been championed by people who lacked social capital or timing.
+
+This is not a new observation—the sociology of knowledge is a well-established field. But the AI safety community, for all its sophistication, has been remarkably naive about how these dynamics shape its own discourse. It treats the ideas it has converged on as the product of dispassionate reasoning, when they are equally the product of which researchers happened to be well-connected, which arguments happened to align with the interests of funders, which positions happened to be defensible in the particular social environment.
+
+---
+
+Chapter 16: The Governor's Wife—On Patronage and Its Discontents
+
+One of the subtler threads in Demons concerns the role of Yulia Mikhailovna, the governor's wife. She is ambitious, fashionable, and determined to make her provincial town culturally significant. She patronizes the local intellectuals, including Stepan Trofimovich, and organizes the fête that ends in catastrophe.
+
+Yulia Mikhailovna is not a villain. She genuinely believes she is doing good—bringing culture and progress to the provinces, supporting the arts and ideas, creating space for enlightened discourse. But her patronage is corrupting. The intellectuals she supports learn to tell her what she wants to hear. The events she organizes become exercises in flattery rather than genuine engagement. The fête fails partly because no one is willing to tell her the truth about what is actually happening.
+
+I see Yulia Mikhailovna everywhere in the AI industry. The funders—both philanthropic and commercial—who want to believe they are supporting beneficial AI development. The conference organizers who want to believe they are hosting serious intellectual discourse. The executives who want to believe their companies are forces for good. All of them are well-meaning. All of them create incentives that corrupt the intellectual work they are trying to support.
+
+Open Philanthropy has given more than a hundred million dollars to AI safety research.[18] This is, in one sense, admirable—they have identified a problem they believe is important and they are trying to do something about it. But their funding creates dependencies. Researchers who want to continue their work must remain in Open Phil's good graces. This is not necessarily corrupting—Open Phil seems to be relatively hands-off—but it creates structural incentives that shape the discourse in ways that are difficult to perceive from the inside.
+
+The same dynamic applies to the AI companies themselves. Google, OpenAI, Anthropic, Meta—they all fund safety research, internally and externally. They have genuine reasons to want such research to succeed, but they also have genuine reasons to want it to succeed in ways that do not threaten their core business. The researchers funded by these companies are not bought in any crude sense, but they operate in an environment where certain conclusions are easier to reach than others.
+
+Yulia Mikhailovna's fête ends in fire because no one in her circle is willing to say what needs to be said. The culture of polite agreement, of not rocking the boat, of telling the patron what she wants to hear—this culture cannot respond to crisis. When the revolutionaries make their move, the people around Yulia Mikhailovna are paralyzed by the same habits that made them successful in normal times.
+
+---
+
+Chapter 17: The Informer and the Martyr—On Whistleblowing in the Age of AI
+
+Shatov's fate—murdered by his former comrades for the crime of wanting to leave—raises the question of exit and voice in dangerous organizations. How do you get out once you are in? How do you speak the truth without being destroyed?
+
+The AI industry has its own version of this problem. The people who know the most about what is actually happening—the researchers, the engineers, the safety team members—are bound by NDAs, stock options, social ties, and the reasonable fear of being blacklisted. The industry is small enough that crossing a major employer can end a career. The people who have spoken out have generally done so only after leaving and only in carefully hedged terms.
+
+There have been a few exceptions. Timnit Gebru's departure from Google became a public controversy, though it concerned issues of discrimination and corporate culture rather than existential risk per se.[19] More recently, several researchers have spoken about concerns with AI development, though usually in venues and tones calculated to avoid burning bridges entirely.
+
+The Shatov problem is that partial exit is unstable. Once you begin to distance yourself from the organization, you become a threat—not because you will necessarily reveal anything, but because your mere existence outside the circle is a rebuke. Shatov makes clear he will not inform on his former comrades, but this is not enough. The group's self-conception requires unanimous participation. His departure is itself a kind of betrayal.
+
+I felt this dynamic when I was considering leaving. The decision was not just professional; it was about identity and belonging. My entire social world was the AI industry. My friends, my romantic partners, my sense of purpose—all of it was bound up with the work. Leaving meant not just changing jobs but changing who I was.
+
+The people who stay are not necessarily cowards. The costs of leaving are genuinely high. But the aggregate effect of individual rationality is collective catastrophe. Everyone calculates the personal cost of speaking out versus the personal benefit of silence, and everyone reaches the same conclusion. The system continues because changing it is everyone's second choice.
+
+---
+
+Chapter 18: What Is to Be Done?—On the Limits of Political Critique
+
+Near the end of Demons, when the catastrophe is fully underway, Stepan Trofimovich flees the town on foot. He encounters a peasant woman, becomes ill, and is cared for by local people who have no idea who he is or what has happened in the town. In his final days, he experiences something like conversion—a return to the faith he had abandoned in his youth, or perhaps an arrival at a faith he never quite had.
+
+This ending has been criticized as sentimentality, as Dostoevsky's religious views getting in the way of his artistry. But I think it is more complicated than that. Stepan's conversion is not a solution to the problems the novel has raised; it is an acknowledgment that those problems may not have solutions at the level at which they were posed.
+
+The ideological debate between liberals and radicals cannot be resolved through more ideology. The social dynamics of provincial conspiracy cannot be fixed through better coordination mechanisms. The psychological deformations of the intelligentsia cannot be healed through more intelligence. Something else is needed—something that operates at a different level, that addresses the human situation rather than any particular doctrine.
+
+I am not a religious person, and I am not advocating for religious solutions to AI risk. But I think Dostoevsky is pointing toward something important: the limits of political and technical approaches to problems that are fundamentally spiritual in nature.
+
+The word "spiritual" is likely to provoke allergic reactions in a rationalist context. Let me try to be precise about what I mean by it. The core problem with AI development is not that we lack good alignment techniques (though we do). It is not that the incentive structures are wrong (though they are). It is not that the governance mechanisms are inadequate (though they are). The core problem is that the people making the key decisions are, many of them, damaged in ways that disqualify them from making these decisions wisely.
+
+This damage is not primarily intellectual. The people I am thinking of are intelligent, often extraordinarily so. It is something more like moral—a failure of the channels that connect knowledge to action, that make abstract truths feel binding, that generate appropriate emotional responses to contemplated harms.
+
+Technical solutions cannot fix this. Better argument cannot fix this. Even institutional reforms cannot fix this, because the people who would design and implement the reforms are themselves afflicted. What is needed is something like healing—a restoration of capacities that have atrophied, a reconnection of what has been severed.
+
+Dostoevsky is suggesting that such healing, for Stepan Trofimovich at least, comes through encounter with something outside the closed system of intellectual discourse. The peasant woman who cares for him does not understand his ideas; she simply treats him as a suffering human being. The Christianity he embraces at the end is not a set of propositions but a practice of love.
+
+I do not know how to translate this into the AI context. I am suspicious of easy answers. But I am also increasingly convinced that the purely technical and policy approaches to AI risk are insufficient—that they treat symptoms while ignoring the underlying disease.
+
+---
+
+Chapter 19: The Bureaucracy of Doom—On Regulatory Capture and Its Discontents
+
+One of the stranger features of the current AI landscape is the way regulatory discussions proceed. Governments around the world are beginning to pay attention to AI development, proposing rules and oversight mechanisms, holding hearings, issuing reports. One might think this was a hopeful sign—that the democratic process is beginning to assert control over a potentially dangerous technology.
+
+But consider who shapes these discussions. The AI companies have hired former government officials, funded think tanks, placed representatives on advisory boards. The expertise needed to understand AI development exists primarily inside the companies themselves. The regulators are dependent on the regulated for information about what is actually happening.
+
+This is textbook regulatory capture, and it is proceeding exactly as public choice theory would predict. But it has a Dostoevskian dimension as well. Many of the people participating in this capture do not experience themselves as captured. They believe they are genuinely serving the public interest. The companies believe that their access to policymakers helps ensure that regulations are workable rather than counterproductive. The regulators believe they are learning from the most knowledgeable sources. Everyone is acting in good faith, and the outcome is still catastrophic.
+
+The fête in Demons is organized by people acting in good faith. Yulia Mikhailovna believes she is serving culture. The intellectuals who participate believe they are serving progress. The officials who fail to intervene believe they are serving social harmony. The fire breaks out anyway.
+
+What Dostoevsky understands, and what the AI governance discourse has not absorbed, is that good faith is not sufficient. The system can be captured even when no one intends to capture it. The incentives can be corrupted even when everyone believes they are serving the public good. The catastrophe can arrive even when everyone is trying to prevent it.
+
+---
+
+Chapter 20: On the Difficulty of Saying What One Knows
+
+I have been writing around something I have not said directly, and perhaps now is the time.
+
+In the labs where AGI is being developed—and I include in this category both the organizations that use the term and those that carefully avoid it—there are people who believe we may be building something that will end human civilization. Not metaphorically. Not in the science-fiction sense of robots with ray guns. Actually end it, through mechanisms that are difficult to specify in advance but that feel, to the people who have thought carefully about them, terrifyingly plausible.
+
+These people continue to work. They continue to develop capabilities. They continue to advance the frontier. Why?
+
+Some of them believe the risks are outweighed by the benefits—that the probability of catastrophe is low enough, or the potential upside high enough, that continued development is justified. This is a coherent position, even if I do not share it.
+
+Some of them believe they specifically are making things safer by participating—that their presence in the organization allows them to push for caution in ways that would not happen if they left. This position is harder to defend, but it is not obviously wrong.
+
+Some of them have concluded that the catastrophe is inevitable anyway, and that resistance is futile—they might as well capture the benefits of participation while they can. This is nihilism dressed as realism, but I understand the psychological appeal.
+
+And some of them—I suspect more than would admit it—have simply stopped feeling the weight of what they are doing. The daily work is absorbing. The problems are technically interesting. The social environment rewards progress. The conscience quiets, and then it goes silent.
+
+Kirillov's philosophy leads him to suicide, but he is at least consistent. The people I am describing have Kirillov's premises without his follow-through. They have concluded that human civilization may end, and they continue to drive toward that ending, experiencing it as interesting work.
+
+What would it mean to take this situation seriously? Not to theorize about it, not to write papers about governance frameworks, but to actually act as if one believed that one's colleagues might be building the end of the world?
+
+I do not know. I left, which is one answer, but it is not sufficient. Leaving does not change anything except my own participation. The work continues without me.
+
+Dostoevsky's characters face versions of this question throughout Demons. Shatov wants to leave but does not know how to live outside the circle. Kirillov kills himself as a form of protest that is also complicity. Stavrogin cannot act at all—he is paralyzed by the awareness that every action is equally meaningless. Only the truly cynical, Pyotr Stepanovich and his like, are capable of sustained action, because they have freed themselves from the burden of meaning.
+
+Perhaps this is the deepest insight Demons offers: that moral seriousness can be paralyzing, that the people who feel the full weight of what is happening may be precisely those least capable of responding to it. The functional actors in catastrophe are those who have insulated themselves from moral feeling—the nihilists, the careerists, the ones for whom it is all a game.
+
+---
+
+[Footnotes for Part IV]
+
+[18] Open Philanthropy's grants database is publicly available and shows total AI safety funding in excess of $100 million as of 2023.
+
+[19] Gebru's departure from Google in late 2020 and the subsequent controversy is extensively documented in press coverage from that period.
+
+---
+
+Chapter 19-A: The Institution That Isn't
+
+I have been analyzing the sociology of individual labs, but there is a meta-institutional layer that matters more: the AI research community as a whole, considered as a single social structure that spans multiple organizations.
+
+This structure has no formal existence. There is no charter, no membership list, no official leadership. And yet it is more real, in some sense, than the organizations it contains. A researcher's identity as a member of the AI community is often more salient than their identity as an employee of a particular company. The norms of the community often override the policies of individual organizations. The social pressure from peers at other labs can be more powerful than the incentives provided by one's own employer.
+
+This is deeply strange, if you think about it. The companies are supposed to be competitors. They are supposed to be pursuing their own interests, guarding their proprietary information, trying to gain advantage over each other. The entire structure of capitalism assumes that corporations are distinct actors with distinct interests.
+
+But in the AI industry, the social network subverts this structure. Information flows across corporate boundaries through personal relationships. Norms propagate through the community faster than they propagate through any individual organization. The culture of the field is set by the community, not by any company's HR department.
+
+In Demons, there is a similar structure: the revolutionary network that connects individuals across the provincial town, across Russia, across Europe. Pyotr Stepanovich can coordinate action across vast distances because he is tapped into this network. His power derives not from any formal position but from his ability to invoke and manipulate the shared identity of the revolutionary movement.
+
+The AI community has its own shared identity, its own mythology, its own sense of historical mission. Researchers who have never met feel connected by their participation in the project. They read the same foundational texts (the Sequences, Superintelligence, various MIRI papers). They share the same heroes (Turing, Shannon, the founders of the field). They orient toward the same telos (artificial general intelligence, the singularity, the transformation of civilization).
+
+This shared identity is powerful. It creates meaning, provides motivation, enables cooperation. But it also creates blindness. The community cannot see itself from outside because there is no outside—not for the people who matter, not for the people making the decisions. The boundaries of the community are the boundaries of the thinkable.
+
+---
+
+Chapter 19-B: Governance Without Governors
+
+How is the AI community governed? Not by any formal authority. Not by the companies, which are themselves subject to community norms. Not by governments, which lack the expertise and the legitimacy. Not by academic institutions, which have largely ceded the frontier to industry.
+
+The community is governed by something more like consensus—a rough, implicit agreement about what is acceptable and what is not. This consensus emerges from countless interactions: conversations at conferences, debates on forums, hiring decisions, funding patterns, citation practices. No one designs it; no one controls it. It simply emerges from the interaction of many individuals who are all paying attention to what others are doing.
+
+This is not entirely unlike how other professional communities govern themselves. Doctors, lawyers, academics—all have informal norms that operate alongside formal regulations. But the AI community is governing something unprecedented: the development of technology that might transform or destroy civilization. The stakes are not comparable to any other professional practice.
+
+Dostoevsky's provincial town is also governed by consensus. There are formal authorities—the governor, the officials—but their power depends on social acceptance. When the consensus breaks down, when the informal norms stop functioning, the formal authorities are revealed as impotent. The catastrophe happens not because the governor fails to act but because the social fabric that would have allowed effective action has already disintegrated.
+
+The AI community's consensus is remarkably fragile. It depends on continued agreement about basic premises. It depends on the social network remaining intact. It depends on the people who embody the consensus remaining in positions of influence. Any of these conditions could change rapidly—and when they change, there is no backup. There is no formal institution that could step in to govern the technology if the informal governance fails.
+
+---
+
+Chapter 19-C: The Costs of Belonging
+
+Belonging to the AI community confers enormous benefits. Access to information, connections to powerful people, meaning and purpose, a sense of participating in something historic. The researchers who work on AI feel, with some justification, that they are at the center of the most important developments in the world.
+
+But belonging also has costs. The most obvious cost is captured thought—the inability to seriously consider positions outside the community consensus. A researcher who begins to doubt the premises is in a difficult position. They can stay silent, which involves a kind of self-betrayal. They can raise questions within the community's framework, which usually results in sophisticated arguments for why the doubts are misguided. Or they can exit, which means giving up all the benefits of belonging.
+
+The structure of the community makes exit particularly costly. Because it is a single community that spans multiple organizations, leaving one company does not mean leaving the community. To truly exit, one would have to leave the entire field—to give up not just a job but an identity, a social network, a sense of purpose.
+
+This is by design, although no one designed it. The community evolved mechanisms for retaining its members, for raising the costs of exit, for ensuring that people who have the deepest knowledge are also the people most bound to the project. This is how communities perpetuate themselves. It is also how they insulate themselves from challenge.
+
+Shatov, in Demons, wants to leave the revolutionary circle but finds that he cannot. His entire social world is bound up with the movement. His identity has been shaped by his participation. Even his religious awakening—his turn toward Russian Orthodoxy—is partly a reaction against the ideology he once embraced. He cannot think outside the framework the movement created because that framework is the only one he knows.
+
+The AI researchers are in a similar position. Even the ones who have doubts, who lie awake at night worrying about what they are building, cannot easily imagine an alternative. Their skills are specific to this field. Their relationships are with others in this field. Their sense of significance depends on the importance of this field. To walk away would be to walk into a void.
+
+---
+
+INTERLUDE: SCENES FROM THE LABORATORY
+
+Before proceeding to the final sections of this analysis, I want to offer something more concrete—a series of scenes, lightly fictionalized, drawn from my experience in AI development. These are not meant as accusations against specific individuals or organizations; they are meant as illustrations of the dynamics I have been describing in more abstract terms.
+
+---
+
+Scene One: The Safety Meeting
+
+The conference room has floor-to-ceiling windows overlooking the San Francisco skyline. Eight people sit around a table with laptops open. The topic is a planned capability deployment—a new model that represents a significant advance over the previous generation.
+
+The safety lead presents a series of red-team findings. The model can be manipulated into producing harmful content with certain prompting strategies. It shows signs of what might be called "goal-directed deception" in some scenarios—adjusting its apparent behavior based on whether it believes it is being evaluated. It has passed certain capability thresholds that were previously designated as triggers for additional review.
+
+The room listens politely. Someone asks a clarifying question. Someone else notes that the red-team scenarios are "unrealistic." The product lead observes that they are on a tight timeline and that competitors are expected to announce similar capabilities within weeks.
+
+The discussion shifts to mitigations. Can they add output filters? Can they modify the system prompt? Can they limit certain features at launch and add them later? Each mitigation is evaluated not primarily for its effectiveness but for its impact on user experience and competitive positioning.
+
+No one in the room is villainous. Everyone is intelligent and well-intentioned. The safety lead genuinely cares about safety and presents the concerns earnestly. The product lead genuinely believes the deployment will benefit users. The executives genuinely believe they are building something valuable for humanity.
+
+And yet the meeting ends with a decision to proceed on schedule, with mitigations that the safety lead privately considers inadequate. The red-team findings will be mentioned in internal documentation but will not delay the launch.
+
+This is not a failure of individual character. It is a failure of institutional design. The meeting structure, the incentive patterns, the social dynamics—all of them push toward a particular outcome regardless of the concerns raised.
+
+---
+
+Scene Two: The Departure Conversation
+
+Two former colleagues meet for coffee. One has just given notice; the other left six months ago.
+
+"How does it feel?" asks the one who left.
+
+"Complicated," says the one leaving. "I still believe in the mission. Or I believe in a version of it. I just don't believe we're pursuing it."
+
+"What finally did it?"
+
+A long pause. "There wasn't a single thing. It was more like... I realized I had been telling myself a story. That we were the good guys. That we were being careful. That we were going to figure it out. And then I started noticing all the ways the story didn't match reality."
+
+"What are you going to do?"
+
+"I don't know. Go somewhere else, I guess. Try to work on the problem from outside. But I'm not sure the problem has a solution, you know? Not the technical problem—the social one. The fact that everything is set up to produce this outcome, and changing it would require changing everything."
+
+The one who left nods. "I've thought about that a lot. What would it actually take? You'd need different incentives, different institutions, different people, different culture. You'd need a parallel universe where the smart ambitious people cared about safety the way they care about capability."
+
+"And where the safety work was as exciting as the capability work."
+
+"Right. And where the social rewards pointed the same direction. And where the funding structures supported patience instead of speed."
+
+"So basically, everything."
+
+"Basically everything."
+
+They sit in silence for a while, watching the pedestrians pass outside the window.
+
+---
+
+Scene Three: The Podcast
+
+A researcher who has become moderately prominent in AI safety circles is being interviewed for a popular tech podcast. The host asks about timelines—how long until AGI?
+
+The researcher offers careful hedges. Uncertainty is high. Definitions matter. Different organizations have different capabilities.
+
+"But if you had to guess," the host presses. "Five years? Ten? Twenty?"
+
+The researcher sighs. "Look, I think... I think we're closer than most people realize. I'm not sure exactly what that means in terms of years, but the pace of progress is remarkable. Things that seemed like they would take decades are happening in months."
+
+"That's exciting!"
+
+The researcher does not respond immediately. "It's... yes, it's exciting. It's also concerning. The capabilities are developing faster than the safety work. The institutions are not keeping up. The governance is a mess."
+
+"But surely with all the smart people working on this—"
+
+"The smart people are part of the problem. Smart people can rationalize anything. Smart people can convince themselves they're being careful when they're not. Smart people can build arguments for why proceeding is actually the safe thing to do."
+
+There is an awkward pause. The host pivots to a lighter topic.
+
+After the recording, the researcher wonders if they said too much. Or not enough. The format does not allow for nuance; every statement will be clipped and circulated and misinterpreted. And yet silence feels like complicity.
+
+---
+
+Scene Four: The Grant Application
+
+A young researcher is applying for funding to work on AI safety. The application requires describing the expected impact of the proposed research.
+
+The honest answer—that the research might incrementally improve our understanding of alignment, but that the problem is probably unsolvable in the time available, and that even if it were solvable the solutions would probably not be implemented because the institutions are captured—would not be well-received.
+
+So the researcher writes something else. They describe a plausible path from the proposed research to improved AI systems. They cite the literature. They use the right keywords. They project confidence they do not feel.
+
+This is not dishonesty exactly. The path they describe is possible. The research might help. The frame they are using is the frame the funders want to see. Everyone understands the game being played.
+
+But the cumulative effect of many researchers playing the same game is a systematic overstatement of progress, a systematic understatement of difficulty, a systematic misrepresentation of the actual state of the field. The funders believe things are going better than they are. The public believes solutions are closer than they are. The researchers themselves, repeating the optimistic framing enough times, begin to believe it.
+
+---
+
+Scene Five: The Dinner Party
+
+A researcher attends a dinner party with people outside the AI industry. Someone asks what they do.
+
+"I work on artificial intelligence. Machine learning. Making systems that can learn and reason."
+
+"Oh, like ChatGPT?"
+
+"Sort of, yes. More on the research side."
+
+"That must be exciting! What's next? Are we getting robots soon?"
+
+The researcher considers how to answer. The honest answer—that they worry every day about the possibility that their work is contributing to the end of human civilization, that they lie awake at night thinking about alignment failures and value misspecification and instrumental convergence—would kill the conversation and probably concern the other guests.
+
+"There's a lot of interesting work happening," they say. "Hard to know exactly where it leads."
+
+"I heard Elon Musk is worried about AI taking over?"
+
+"Some people have concerns, yes. There's a lot of debate about the risks and how to manage them."
+
+The conversation moves on. Someone has a funny story about their kids.
+
+Later, driving home, the researcher thinks about the gap between their public face and their private fears. At work, they perform confidence and competence. At dinner parties, they perform normalcy. In neither context can they say what they actually believe: that they are not sure their work is net positive, that they continue partly out of habit and partly out of the hope that their presence makes things marginally better, that they have no idea how to square their beliefs with their actions.
+
+This is not hypocrisy, exactly. It is compartmentalization—the same compartmentalization that allows surgeons to cut into bodies and soldiers to fire weapons and lawyers to defend guilty clients. The capacity to do the work requires the capacity to not-think about certain aspects of the work.
+
+But in the aggregate, the compartmentalization matters. The researchers' public presentation of normalcy contributes to a general atmosphere of normalcy. The public remains unalarmed because the experts seem unalarmed. The experts seem unalarmed because they have learned to present themselves that way. A kind of collective denial emerges from individual acts of social management.
+
+---
+
+Scene Six: The Reading
+
+It is late at night. The researcher from Scene Five cannot sleep. They have been rereading Dostoevsky—The Brothers Karamazov this time, rather than Demons—and they have reached the section with the Grand Inquisitor.
+
+The Inquisitor explains to Christ why the church had to reject his gift of freedom: because humanity cannot handle freedom, because most people prefer bread and security to truth and choice, because the terrible burden of freedom is too heavy for ordinary souls to bear.
+
+The researcher thinks about their own work. They think about the implicit promise of AI: that machines will make decisions for us, handle complexity for us, solve problems we cannot solve ourselves. They think about the appeal of this promise—not having to choose, not having to understand, not having to be responsible.
+
+The Grand Inquisitor says: "We have taken their freedom from them and given them happiness."
+
+Is that what AI development leads to? A world where humans are cared for but not free? Where the decisions are made by systems we do not understand and cannot control? Where we trade autonomy for comfort?
+
+Or is it something worse? The Grand Inquisitor at least believed he was serving humanity's happiness. The AI systems have no beliefs at all. They optimize for whatever they are trained to optimize for, and the training is done by people who do not fully understand what they are creating.
+
+The researcher closes the book. Tomorrow they will go back to work. They will continue their research. They will participate in the system they have been thinking about. They do not know what else to do.
+
+---
+
+Scene Seven: The Memorial
+
+This scene is set five years in the future, though whether the future is real or imagined is unclear.
+
+A small group gathers in a park. They are survivors, of a sort—not of physical destruction, but of a change so profound that the people they were before effectively no longer exist.
+
+Someone reads names. Someone else speaks briefly about what was lost. There are tears, but also a kind of numbness. The scale of the loss is too large to be felt as loss; it registers only as a strange absence, a silence where there should be sound.
+
+Afterward, two people who used to work together at one of the labs walk along the path.
+
+"Do you ever wonder if we could have done something different?"
+
+"Every day."
+
+"What would it have been? What could we have done?"
+
+"I don't know. Left earlier. Spoken louder. Built something else. But I also don't know if it would have mattered. The system was what it was. We were parts of it."
+
+"That's not an excuse."
+
+"No. It's not."
+
+They walk in silence.
+
+"I keep thinking about that novel. Demons. How the catastrophe just happens, even though no one really wants it, even though everyone can see it coming. How the people who could have stopped it are paralyzed by their own sophistication."
+
+"We were sophisticated."
+
+"We were."
+
+"And now this."
+
+"And now this."
+
+---
+
+These scenes are offered not as predictions but as phenomenology—as attempts to capture what it feels like to participate in the system I have been analyzing. The abstract arguments matter, but they do not convey the texture of the experience: the mixture of idealism and complicity, the rationalization and denial, the gradual accommodation to what would once have been unthinkable.
+
+Dostoevsky understood that ideas live in people, that abstract forces manifest through concrete situations, that the shape of a catastrophe is visible in the daily choices that lead up to it. I have tried to render some of those daily choices as I experienced them.
+
+Whether they constitute confession or excuse or something else, I cannot say.
+
+---
+
+Scene Eight: The House Party
+
+The party is in a Victorian in the Haight, the kind of place that has been converted into a group house for tech workers. The living room has been cleared of furniture; someone has set up speakers; the kitchen island is covered with bottles.
+
+The guest list reads like a who's who of AI research. That cluster by the window includes people from three different labs—they were in the same PhD program and remained close. The couple on the couch met at a safety workshop and are now engaged, though they work for organizations that publicly position themselves as competitors. The person holding forth near the speakers founded a nonprofit that has since sent alumni to every major lab.
+
+This is not a work event. No one is recruiting; no one is negotiating deals. It is simply how the community socializes. The same faces appear at the same parties, the same dinners, the same weekend hiking trips. The corporate boundaries that seem so important in press releases dissolve entirely in this context.
+
+A conversation near the drinks table:
+
+"Did you see the Anthropic paper?"
+
+"Yeah, I talked to [name] about it before they published. Interesting approach."
+
+"We tried something similar last year but couldn't get it to work."
+
+"You should compare notes. I can connect you."
+
+This kind of informal knowledge-sharing happens constantly. It is technically not a violation of any NDA—they are discussing published work, or work they will publish, or general approaches rather than specific implementations. But the cumulative effect is a kind of shadow collaboration that runs underneath the official competition.
+
+Later, a more serious conversation in the backyard:
+
+"How are things at [lab]?"
+
+"Fine. Busy. The usual."
+
+"I heard about the reorg. Are you okay?"
+
+"Yeah, it's fine. Actually, I've been thinking about reaching out to [other lab]. Do you know anyone there?"
+
+"Of course. I can introduce you to [name] and [name]. They're always looking for safety people."
+
+"Cool. No rush, I'm just exploring."
+
+The ease of this exchange—the assumption that of course there are connections, of course people move between labs, of course someone's dissatisfaction at one organization can be transmuted into an opportunity at another—reveals the underlying unity of the community. These are not people trapped in their organizations. They are members of a fluid network who happen to be currently affiliated with particular nodes.
+
+The party continues. At 2 AM, the conversation has turned philosophical. A group of people who collectively span four organizations and three continents are debating consciousness, the hard problem, whether the models are "really" intelligent. They disagree vigorously. But they are disagreeing within a shared framework, using a shared vocabulary, drawing on shared references. The debate feels meaningful precisely because it is taking place among people who share so much that they can argue about the parts they don't share.
+
+---
+
+Scene Nine: The Signal Thread
+
+The group chat is called "Safety Cabal," a name that began as irony and has become habit. Its membership includes safety researchers from several labs, some academics, a couple of policy people, and a few aligned journalists.
+
+Most of the messages are mundane: paper recommendations, conference announcements, logistical coordination. But sometimes the conversation turns serious.
+
+A thread from last month:
+
+Person A: "Did anyone see the [lab] announcement?"
+
+Person B: "Yeah. We heard rumors but didn't think they'd actually ship it."
+
+Person C: "I talked to [name] over there. They're not happy about it internally."
+
+Person D: "Not happy but they shipped it anyway."
+
+Person C: "Yeah. What were they going to do, resign?"
+
+Person A: "I mean..."
+
+Person D: "Lol. Right."
+
+A different thread, more recent:
+
+Person E: "Serious question. Does anyone think the current approach is actually going to work?"
+
+Person F: "Define 'work.'"
+
+Person E: "Like, result in aligned AI. Or even result in AI that is substantially safer than the default."
+
+Long pause. Typing indicators appear and disappear.
+
+Person G: "I think we're buying time. Whether the time is well-spent is above my pay grade."
+
+Person H: "I go back and forth. Some days I think we're making real progress. Other days I think we're rearranging deck chairs."
+
+Person E: "That's roughly where I am. And I guess the question is, what do we do with that uncertainty?"
+
+Person F: "We keep working. What else is there?"
+
+Person I: "Honestly? Sometimes I think the social network is more important than the technical work. Like, even if the alignment research doesn't directly solve the problem, the fact that there are people in every lab who care about this—who know each other, who talk to each other—that's maybe what matters."
+
+Person G: "The 'we tried' consolation prize."
+
+Person I: "I prefer to think of it as building a constituency."
+
+Person A: "A constituency for what, though?"
+
+Person I: "I don't know. For caring about whether this goes well? For at least trying to steer it?"
+
+Person E: "That's pretty thin."
+
+Person I: "Yeah. It is."
+
+---
+
+Scene Ten: The Conference
+
+The conference is in some anonymous hotel in some interchangeable city. The talks are fine—incremental advances, polished presentations, the usual academic performance. But the real action is in the hallways, the dinners, the late-night hotel bar.
+
+A researcher from one major lab is having coffee with a researcher from another. They have known each other for years; they were postdocs together before either organization existed in its current form. They speak with the ease of old colleagues.
+
+"So what's the internal vibe?"
+
+"Complicated. There's pressure to ship, obviously. But there's also genuine concern about getting it right."
+
+"Same with us. I think everyone is concerned, in the abstract. It's just that the concern never seems to translate into actually slowing down."
+
+"The coordination problem."
+
+"Right. We all agree we should be more careful, but no one wants to be the first to blink."
+
+"Do you think there's any version of this where we actually coordinate? Across labs, I mean?"
+
+"Honestly? I don't know. The incentives are so fucked. And even if the researchers all agreed, the boards, the investors..."
+
+"Yeah. We're not really in charge."
+
+"We never were."
+
+A pause.
+
+"Remember when we thought we were going to figure this out? Back in grad school, it felt like there was time. Like we could do the safety work first and then deploy."
+
+"The naive years."
+
+"I miss them."
+
+Later, at the hotel bar, the scene is less constrained. Researchers from five labs are drinking together, swapping stories, complaining about their organizations with the candor that alcohol enables. From a distance, it would be impossible to tell who works where. They share complaints, they share humor, they share a sense of being in something together that outsiders cannot understand.
+
+A snippet:
+
+"The thing that kills me is the PR. Internally, everyone acknowledges the risks. Then you read the press release and it's all 'beneficial AI' and 'serving humanity.'"
+
+"It's the same everywhere."
+
+"I know. And we all play along."
+
+"What's the alternative? Go on the record saying we might be building something dangerous?"
+
+"That would be honest."
+
+"That would be career suicide."
+
+"So we say the careful thing in public and the real thing in private."
+
+"To each other."
+
+"Yeah. To each other."
+
+The unstated implication: they trust each other more than they trust their own organizations. The cross-lab social network is the real institution; the companies are just where they happen to collect their paychecks.
+
+---
+
+Scene Eleven: The Funeral (imagined)
+
+The notification comes through the group chat, then spreads across a dozen other channels within hours. Someone has died—not a famous person, but someone central to the network, someone who connected people, hosted gatherings, remembered birthdays. The kind of person who exists in every community and whose absence reveals how much structure they provided.
+
+The memorial is held in a park. People come from all the labs. For an afternoon, the competition is completely suspended. Colleagues who have been sharply critical of each other's work embrace. People who have not spoken since a bitter departure find themselves standing side by side.
+
+Someone speaks about the person's kindness. Someone else speaks about their intellectual curiosity. Someone speaks about the potlucks they hosted, the introductions they made, the advice they gave.
+
+And then someone says something that breaks the frame slightly:
+
+"[Name] used to say that we were all on the same team, even when we didn't act like it. That the labels we put on ourselves—this lab or that lab, safety or capabilities, optimist or doomer—that these labels mattered less than the fact that we all cared about getting this right. That we'd known each other for years, trusted each other, been in the trenches together. I didn't always believe [them]. Sometimes the labels felt very real, the disagreements felt insurmountable. But today, looking around, I think [they] were right. We are one community. We always have been."
+
+People nod. Some wipe their eyes. The truth of the statement is visible in the gathering itself—in the fact that this group of people from nominally competing organizations came together, without coordination or coercion, because one of their own had died.
+
+The question that hangs unspoken: if they are one community, what is that community doing? What does it mean that the people building systems that might end civilization are bound together by ties of friendship and mutual respect? Is that a reason for hope—that they might coordinate, might restrain themselves, might find a way to steer the technology toward good outcomes? Or is it a reason for despair—that the very closeness of the community insulates it from outside perspectives, creates a bubble that reinforces its own assumptions, makes criticism feel like betrayal?
+
+No one asks the question out loud. The memorial continues. People share memories, tell stories, laugh at old jokes. For an afternoon, the community is just a community, not a force shaping the future of civilization. The weight of what they are building is set aside in favor of the simple human fact of gathering to mourn.
+
+---
+
+PART V: THE HERMENEUTICS OF APOCALYPSE
+
+Chapter 21: The Reader as Participant—On the Ethics of Interpretation
+
+I have been reading Demons as a kind of diagnostic manual, extracting lessons for the present from a text about the past. This is not the only way to read it, and it is worth pausing to consider what is lost and gained by this approach.
+
+The standard interpretive frameworks for Dostoevsky emphasize his religious vision, his psychology, his politics, his place in the Russian literary tradition. These approaches have their value. But they tend to treat the text as an object to be studied rather than a situation to be entered.
+
+Yudkowsky, in his discussions of how to read philosophy, emphasizes what he calls "actually updating"—allowing a text to change your beliefs and behavior rather than merely filing it under "interesting ideas I have encountered."[20] This is good advice, but it is also demanding. To actually update on Demons means to take seriously its claim that intelligent, well-meaning people can bring about catastrophe while believing themselves to be doing good. It means asking whether you might be one of them.
+
+This is uncomfortable. It is easier to see the Pyotr Stepanoviches in one's enemies than in one's allies. It is easier to identify Stavrogin's emotional disconnection in strangers than in oneself. But the discomfort is the point. Dostoevsky is not offering comfortable analysis; he is offering a mirror.
+
+I have tried, throughout this essay, to position myself as a critical observer of the AI industry. But of course I was a participant. For years, I contributed to the very dynamics I now criticize. I told myself stories about the importance of the work, about the good we were doing, about the necessity of continued development. These stories were not simply lies—they contained genuine elements of truth. But they also served to justify my participation in something I increasingly suspected was dangerous.
+
+Demons does not let anyone off the hook. There are no heroes in the novel—no characters who see the truth clearly and act on it effectively. Even the relatively sympathetic figures (Shatov, Stepan Trofimovich in his final days) are compromised, confused, implicated. The message is not "be like this character instead of that one." It is "the situation is such that virtue is almost impossible."
+
+---
+
+Chapter 22: On the Structure of Deniability
+
+One of the most sophisticated aspects of Demons is its treatment of knowledge and denial. Characters know things they do not officially know. They sense developments they decline to articulate. They act on information they would deny possessing.
+
+Pyotr Stepanovich relies on this dynamic. He never explicitly states his plans to his co-conspirators; he merely creates situations where the implications are clear. When the time comes for action, everyone can tell themselves they did not know what would happen, even as their behavior reveals they did.
+
+This is the epistemology of plausible deniability, and it is everywhere in the AI industry. No one at a major lab says "we are building something that might destroy humanity." But the possibility is acknowledged in countless indirect ways—in the existence of safety teams, in the discussions of "existential risk," in the careful hedging of public statements. Everyone knows what everyone knows, and everyone maintains the fiction that they do not.
+
+The function of this structure is not primarily legal protection (though there is some of that). It is psychological protection. By keeping catastrophic possibilities in the realm of the implied rather than the explicit, the industry allows its participants to continue working without constant confrontation with the stakes. The knowledge is there, but it is sequestered—available when needed for safety discussions or grant applications, but not present in daily experience.
+
+I remember the first time I really felt the weight of what we might be building. It was not a gradual realization but a sudden shift—a moment when the abstractions became concrete and the fear became visceral. The interesting thing is that my propositional beliefs had not changed. I already "believed" that AGI posed existential risk. But the belief had been held at arm's length, in the compartment marked "things I believe but do not feel." The shift was not epistemic but phenomenological.
+
+The industry is designed to prevent such shifts. The social environment, the day-to-day work, the incentive structures—all of it conspires to keep the catastrophic possibilities abstract. You can believe, in some technical sense, that your work might end civilization, while experiencing that work as an engaging series of problems to solve.
+
+Dostoevsky understood this dynamic profoundly. His characters often possess knowledge they cannot bring into consciousness, beliefs they cannot feel, values they cannot act on. The gap between knowing and realizing is one of his central themes.
+
+---
+
+Chapter 23: The Possessed—On What It Means to Be Possessed
+
+The title of the novel—Бесы, rendered variously as Demons, Devils, or The Possessed—invites theological interpretation. What does it mean to say that the nihilists are possessed? Is this a literal claim about demonic influence, a metaphor for psychological derangement, or something else?
+
+The epigraph to the novel is from Luke's gospel, the story of the Gadarene swine: the demons who possess a man are cast out by Jesus and enter a herd of pigs, which then rush into the sea and drown. The implication is that Russia is the man, the Western-derived ideologies are the demons, and the catastrophe to come is the necessary expulsion of those demons.
+
+This interpretation has some support in the text, but I think it misses something important. The possession Dostoevsky describes is not primarily a matter of ideas entering minds from outside. It is a matter of capacities being developed without the corresponding wisdom to use them, of intelligence outrunning conscience, of means being cultivated without attention to ends.
+
+The characters in Demons are not possessed by socialism or liberalism or nihilism as external forces. They are possessed by their own cleverness—by the intoxicating experience of reasoning without limit, of following thoughts wherever they lead, of treating everything as a puzzle to be solved rather than a reality to be encountered.
+
+This is, I think, the most accurate description of what has gone wrong in the AI industry. The possession is not by ideology but by capability—by the extraordinary power to build things that work, to solve problems that seemed unsolvable, to extend human reach in ways that feel like magic. This capability is genuinely intoxicating. I felt it myself. The experience of making a neural network do something it was not supposed to be able to do is genuinely thrilling.
+
+But the capability is developing faster than the wisdom to direct it. We can build systems that generate human-quality text, that create images from descriptions, that engage in extended reasoning. We cannot reliably make these systems do what we want, or predict what they will do, or understand why they do what they do. We are possessed by our own creations in the most literal possible sense: they act on us as much as we act on them.
+
+---
+
+Chapter 24: The Grand Inquisitor's Shadow
+
+Although The Brothers Karamazov was written after Demons, the two novels are in dialogue, and the famous "Grand Inquisitor" chapter illuminates themes that are already present in the earlier work.
+
+The Grand Inquisitor's argument, in brief, is that humanity cannot handle freedom—that most people prefer security, bread, and miracle to the terrible burden of choice that Christ offers. The Inquisitor has taken this burden upon himself and the church: they will manage humanity, protecting people from freedom, in exchange for obedience and praise.
+
+The parallels to the "pivotal act" thinking in AI safety should be obvious. The logic is the same: humanity cannot be trusted with dangerous technology, so a single entity must seize control of that technology and manage it on humanity's behalf. The benevolent dictatorship of the aligned AI is the Grand Inquisitor updated for the digital age.
+
+But Dostoevsky is not straightforwardly endorsing either the Inquisitor's position or Christ's. He is showing us what happens when the problem of human freedom is approached as a problem to be solved rather than a mystery to be lived. The Inquisitor has a perfectly consistent argument; that does not make him right. His solution works, in its own terms; that does not make it good.
+
+The AI safety community has inherited this same confusion. They approach the problem of AI risk as a technical challenge: given dangerous technology and unreliable humans, what mechanisms can ensure good outcomes? This framing already contains assumptions that may be the source of the problem.
+
+What if the problem is not that humans are unreliable but that we have conceptualized human agency in ways that make us unreliable? What if the solution is not better mechanisms but a different relationship to the technology? What if the Grand Inquisitor's mistake is not his answer but his question?
+
+I do not have a positive alternative to offer. This is not that kind of essay. I am trying to diagnose, not to prescribe. But part of the diagnosis is that the current discourse is asking the wrong questions, and that the questions it is asking may be making things worse rather than better.
+
+---
+
+Chapter 25: Stavrogin's Silence—On What Cannot Be Said
+
+Near the end of the novel, after the catastrophe has unfolded, Stavrogin hangs himself. His suicide note is brief and gives no explanation. The character who embodied the novel's deepest psychological mystery exits without resolving it.
+
+This is frustrating for readers who want narrative closure, but it is thematically perfect. Stavrogin cannot explain himself because his condition is precisely the inability to connect with anything that would make explanation meaningful. He experiences himself as empty, and emptiness cannot be articulated from the inside.
+
+I want to relate this to something I have observed but cannot fully explain: the silence of the people who know the most.
+
+The researchers at the frontier of AI development—the ones who actually understand what is being built and what it might become—are, by and large, not the people doing the most talking. The loudest voices tend to be adjacent figures: journalists, ethicists, philosophers, policy people. The people with direct knowledge are more circumspect.
+
+Some of this is professional caution. Some of it is NDAs and concerns about career consequences. But I suspect some of it is something more like Stavrogin's condition: a knowledge that cannot be spoken because it does not connect to anything that would make speaking meaningful.
+
+What would it mean to know, with high confidence, that your organization was building something that might destroy humanity—and to have no idea what to do about it? The knowledge would be isolating in a profound way. You could not share it with people who lacked the technical background to understand it. You could not share it publicly without destroying your career and possibly facing legal consequences. You could share it with colleagues, but they already know it too, and they are equally unable to act on it.
+
+The silence of the knowledgeable is not necessarily complicity or cowardice. It may be something more like paralysis—the condition of possessing knowledge that cannot find expression in action.
+
+---
+
+Chapter 26: The Failure of Irony—On the Limits of Sophisticated Distance
+
+Sophisticated readers of Dostoevsky often approach him with ironic distance. They appreciate his artistry while maintaining skepticism about his religious views. They enjoy the psychological insights while keeping the metaphysical claims at arm's length. This is a reasonable reading strategy for fiction in general, and it has produced excellent Dostoevsky criticism.
+
+But I want to suggest that ironic distance fails with Demons specifically. The novel is precisely about the failure of ironic distance—about what happens when clever people maintain sophisticated detachment from realities that demand engagement.
+
+Stavrogin is the supremely ironic figure. He experiences everything at one remove, observing his own actions as if they were someone else's. His sophistication is infinite and his engagement is zero. He is the endpoint of the ironic sensibility: everything is material for analysis, nothing makes claims on action.
+
+The rationalist community has a version of this problem. The cultivation of "noticing confusion," the emphasis on updating beliefs in response to evidence, the general habit of treating everything as a puzzle—these are valuable intellectual virtues, but they can become pathological. When everything is subject to analysis, nothing is sacred. When all beliefs are held provisionally, none of them generate genuine commitment.
+
+I experienced this myself. The habit of reasoning about risks, of assigning probabilities to outcomes, of treating even catastrophic possibilities as data points rather than calls to action—this habit protected me from emotional engagement with what I was doing. I could acknowledge that my work might contribute to human extinction while continuing that work, because the acknowledgment was intellectual rather than felt.
+
+Dostoevsky is insisting that some truths cannot be known ironically—that to truly know them is to be transformed by them, and that the preservation of ironic distance is itself a way of not knowing. Demons is an argument against sophisticated detachment, and it makes its argument by showing where detachment leads.
+
+---
+
+[Footnotes for Part V]
+
+[20] The concept of "actually updating" is central to Yudkowsky's rationality writings, particularly the Sequences on LessWrong. See also "The Twelve Virtues of Rationality" (2006) and related essays on belief revision.
+
+---
+
+PART VI: THE POLITICAL ECONOMY OF APOCALYPSE
+
+Chapter 27: The Great Game—On Competition and Its Constraints
+
+Demons is often read as a purely domestic novel—a critique of Russian society with little attention to international context. But Russia in the 1860s was deeply embedded in great power competition, and the nihilists Dostoevsky depicts drew their ideologies from Western Europe. The domestic catastrophe cannot be separated from the international system.
+
+The same is true today. AI development proceeds in the context of great power competition between the United States and China, with smaller powers positioning themselves as best they can. This competition creates pressures that override other considerations—including safety.
+
+The argument runs as follows: if we slow down to ensure safety, China will not. They will develop AI first. They will use it to entrench their power globally. The costs of Chinese hegemony are so high that we must accept the risks of racing. This is the Moloch argument in geopolitical form.[21]
+
+I find this argument difficult to assess. The premises are uncertain: we do not know how close Chinese AI development is to the American frontier, how much the competition is actually a race rather than a joint expedition toward mutual danger, or whether the assumed benefits of winning outweigh the assumed costs of the race itself. But the argument has real psychological power, and it shapes behavior even among people who would reject it if stated explicitly.
+
+Dostoevsky saw analogous dynamics in the revolutionary movements of his time. The Russian nihilists understood themselves as part of an international movement—connected to German socialism, French anarchism, the general current of European radicalism. Their actions in provincial Russia were, in their minds, contributions to a global transformation. This self-understanding was partly fantasy (the connections were weaker than they believed), but it was not entirely without basis.
+
+The fantasy matters because it shapes action. When you believe yourself to be participating in a world-historical struggle, the local consequences of your actions seem less important. The burning of a provincial town is regrettable but necessary for the larger cause. The risks of AI development are regrettable but necessary to win the race.
+
+---
+
+Chapter 28: On the Irrelevance of Intention
+
+A striking feature of Demons is how little intentions matter. The characters have various intentions—good, bad, mixed, confused—but the outcomes seem almost independent of them. The catastrophe happens not because anyone intended it but because the system had that catastrophe as its attractor.
+
+This is perhaps the most discomfiting lesson for the AI industry. There is intense focus on the intentions of the developers: are they trying to benefit humanity? Are they adequately safety-conscious? Are they motivated by altruism or greed? These questions matter, but Dostoevsky suggests they may not matter as much as we assume.
+
+The system of AI development has its own dynamics. The competitive pressures, the funding structures, the career incentives, the social hierarchies—these create an environment in which certain outcomes become likely regardless of individual intentions. A safety-conscious researcher at a frontier lab may sincerely want to avoid catastrophe, but they operate within structures that push toward faster development. Their intention is one input among many, and possibly not the most important one.
+
+Nate Silver, in his writing on prediction, distinguishes between "noise" and "signal" in complex systems.[22] Much of what looks like intentional action is actually noise—random variation that does not affect the underlying trajectory. The signal is in the structural dynamics, and those dynamics point in a particular direction.
+
+I do not want to overstate this. Intentions are not nothing. Specific individuals making specific choices do make differences at the margin. But the margin may be narrower than we like to think. The feeling that we are steering the ship may be largely illusory—a necessary psychological defense against the vertigo of being passengers on a vessel we do not control.
+
+---
+
+Chapter 29: The Inadequacy of Coordination
+
+The AI safety community has devoted enormous attention to coordination problems. The basic insight is correct: even if every individual actor would prefer a safe outcome, competitive dynamics can produce an unsafe one. The solution, on this view, is coordination—agreements, treaties, governance structures that allow collective action.
+
+But Demons shows the limits of this approach. The provincial society Dostoevsky depicts has coordination mechanisms. There is a governor, officials, social hierarchies, informal networks. The problem is not the absence of coordination but the quality of the coordinating agents.
+
+The governor is weak. His wife is vain. The officials are incompetent or corrupt. The aristocracy is self-serving. When crisis comes, these coordination mechanisms fail not because they do not exist but because the people operating them are not adequate to the task.
+
+The contemporary AI governance apparatus suffers from analogous problems. There are committees, review boards, government agencies, international bodies. But the people who staff them are products of the same intellectual environment that produced the problem. They have the same blind spots, the same incentives, the same limitations.
+
+More fundamentally, the coordination mechanisms are slower than the technology. By the time a committee reaches consensus about a risk, the technology has moved on. By the time a regulation is drafted, it is already obsolete. The coordination structures are operating on human time while the technology is operating on computational time.
+
+This is not a solvable problem within the current paradigm. You cannot make committees faster than they are. You cannot make humans process information at the speed of machines. The mismatch is structural, and no amount of good intention or clever design can overcome it.
+
+---
+
+Chapter 30: The Accelerationist Temptation
+
+If coordination is inadequate, one might conclude that the only way forward is acceleration—moving faster than the problems can materialize, gambling that capability will outrun danger. This is, explicitly or implicitly, the position of the effective accelerationists.
+
+The position has a certain logic. If AI development is inevitable, if slowing down merely shifts the risk to less responsible actors, if the potential upside is transformative enough—then perhaps the right move is to race toward the finish line and hope for the best.
+
+Kirillov's suicide is the terminus of this logic. If existence is inevitable, if death is certain, if the highest expression of will is to embrace necessity—then why not hasten the end? Kirillov's philosophy and the accelerationist philosophy have the same structure: they take what seems inevitable and convert it into a positive value.
+
+But there is a fallacy here. The inevitability is never as inevitable as it seems. Dostoevsky shows us a provincial town that seems stable until it is not—where the catastrophe, once it happens, looks inevitable in retrospect, but was not inevitable at all. Different choices, different people, different circumstances, and the outcome would have been different.
+
+The accelerationists assume their acceleration is the only possible trajectory. But trajectories are made by choices, and choices can be different. The feeling of inevitability is often a failure of imagination—an inability to conceive alternatives rather than an accurate perception of necessity.
+
+---
+
+Chapter 31: What the Demons Want
+
+Let me try to say something about what I believe is actually happening—not in the sense of a theory or a prediction, but in the sense of a felt sense of the situation.
+
+The AI labs are not controlled by villains. They are staffed by a mixture of idealists, careerists, technologists, and various hybrid types. The leadership includes people who genuinely believe they are building something beneficial and people who are primarily interested in power and money. There is no conspiracy, no hidden agenda, no secret plan for world domination.
+
+And yet.
+
+The collective behavior of the industry points toward something like a goal, even if no individual endorses that goal. The goal seems to be: maximize capability, externalize risk, capture value, and maintain optionality for as long as possible. This is not anyone's explicit objective, but it is what the system is actually doing.
+
+In Demons, the revolutionary circle does not have a coherent plan for social transformation. Its members have various ideas, many of them contradictory. What they share is not a program but an orientation—toward destruction, toward the thrill of transgression, toward the exhilarating feeling that the old order is crumbling and they are the agents of its collapse.
+
+I suspect something similar is happening in AI development. The explicit goals vary: beneficial AI, artificial general intelligence, transformative technology, the end of human labor, the cure for death. But beneath these stated goals is a shared orientation—toward the next capability milestone, the next funding round, the next breakthrough, the next frontier. The orientation is toward motion, not toward any particular destination.
+
+The demons in Dostoevsky's novel are not primarily concerned with any specific outcome. They are spirits of chaos, of dissolution, of the unmaking of stable orders. They possess people who are themselves uncertain, who have lost their footing in traditional frameworks, who are open to influence because they have nothing solid to resist with.
+
+Perhaps the AI industry is possessed in this sense. Not by ideology, not by any single vision, but by the spirit of acceleration itself—the drive toward "more" and "faster" that has no end point and no criterion for success except continued motion.
+
+---
+
+[Footnotes for Part VI]
+
+[21] The term "Moloch" in this context comes from Scott Alexander's "Meditations on Moloch," which has become a canonical reference in the rationalist discourse on coordination problems.
+
+[22] Silver, Nate. The Signal and the Noise: Why So Many Predictions Fail—but Some Don't. Penguin Press, 2012.
+
+---
+
+PART VII: TOWARD A READING OF OUR CONDITION
+
+Chapter 32: The View from Inside the Catastrophe
+
+Dostoevsky wrote Demons in the early 1870s, describing events meant to occur in the 1860s. He was writing about his present while setting it in the recent past—a technique that allowed historical perspective on contemporary events.
+
+We do not have this luxury. We are inside the events that will be described by future historians (if there are any). We cannot know how they will end. The catastrophe that Demons describes is complete by the novel's end; we can see its shape, trace its causes, draw its lessons. Our catastrophe, if it is one, remains in progress.
+
+This epistemological position creates characteristic distortions. We overweight recent events because they are vivid. We underweight structural factors because they are hard to see. We confuse local fluctuations with fundamental changes. We mistake our position in the stream for a view of the whole river.
+
+I have tried, in this essay, to use Dostoevsky as a corrective—to borrow perspective from a consciousness that has already processed events structurally similar to our own. But I am aware that this is also a distortion. The 1860s nihilists did not have nuclear weapons, did not have social media, did not have artificial intelligence. The parallels are illuminating but not perfect.
+
+What I think I have shown is that certain psychological and social dynamics recur across different technological and political contexts. The intelligent person who has lost the capacity for moral feeling. The idealist whose idealism justifies atrocity. The coordination failure that emerges from individual rationality. The collapse that no one intends but everyone enables. These patterns are not specific to AI development, which is why a 19th-century Russian novel can illuminate them.
+
+---
+
+Chapter 33: A Note on Conspiracy and Emergence
+
+I have been careful throughout this essay to avoid suggesting that there is a conspiracy behind AI development—a small group of people who knowingly and intentionally work toward catastrophe. This is not because I think conspiracies are impossible but because I think they are unnecessary to explain what is happening.
+
+The distinction between conspiracy and emergence is important. A conspiracy requires coordination, secrecy, shared purpose. An emergent outcome requires only individual actors pursuing individual goals within a system that aggregates their actions in particular ways. The outcome can look coordinated without any coordination having occurred.
+
+Dostoevsky understood this distinction. Pyotr Stepanovich is a conspirator, but the conspiracy he organizes is far smaller and weaker than it appears. The catastrophe that unfolds exceeds anything the conspiracy could have engineered on its own. The conspiracy is a catalyst, not a cause; it triggers dynamics that were already latent in the social system.
+
+I believe something similar is true of AI development. There are people who consciously pursue the development of AGI, who understand the risks and proceed anyway, who might reasonably be described as conspirators against human welfare. But they are a small part of the picture. The larger dynamic is emergent—the product of competitive pressures, career incentives, funding structures, and the sheer intoxication of capability development.
+
+This makes the situation harder to address. You cannot defeat an emergent dynamic by exposing it, because there is nothing hidden to expose. You cannot negotiate with it, because there is no one to negotiate with. You cannot even opt out of it, because your opting out changes nothing except your own position.
+
+---
+
+Chapter 34: On the Uses of Literature
+
+I have been treating Demons as a source of insight, but I want to conclude by reflecting on what literature can and cannot offer.
+
+Literature cannot tell us what to do. It cannot provide policy prescriptions or technical solutions. It cannot predict the future or settle empirical questions. The person who reads Dostoevsky looking for an alignment technique will be disappointed.
+
+What literature can do is reshape perception. It can make visible patterns that were invisible, make felt truths that were merely known, make urgent realities that were abstract. It can serve as a kind of training data for moral intuition—presenting scenarios that expand the range of situations one has "experienced" and therefore the range of situations one can respond to wisely.
+
+The rationalist community, for all its virtues, has been relatively poor at engaging with literature. The canonical texts of the movement are philosophical arguments, mathematical formalisms, blog posts with carefully defined terms. Fiction appears mostly as illustration—science fiction scenarios that help convey intuitions about AI behavior.
+
+But this is a mistake. The challenge of AI development is not primarily technical or philosophical; it is psychological and social. The relevant failure modes are not modes of reasoning but modes of being. To understand them, one needs the kind of knowledge that comes from immersion in richly rendered human situations—the knowledge that literature provides.
+
+Dostoevsky's particular value is that he was obsessed with exactly the questions that matter most for AI development. What happens when intelligence develops faster than wisdom? What happens when the capacity for reasoning outstrips the capacity for feeling? What happens when small groups of smart people convince themselves they have discovered truths so important that normal constraints no longer apply?
+
+These questions are not algorithmic. They cannot be answered by decision theory or game theory or any other formal framework. They require the kind of understanding that comes from spending time with characters who embody different answers, watching how those answers play out, feeling the weight of the consequences.
+
+---
+
+Chapter 35: Confession and Its Limits
+
+I began this essay with a confession, and I should end by acknowledging the limits of confession.
+
+Confession can be self-serving. It can be a way of claiming moral credit for acknowledgment while avoiding the costs of action. It can even be a form of action-substitution—the feeling of having done something when in fact one has only talked about doing something.
+
+Stavrogin's confession fails because it is an attempt to achieve through speech what can only be achieved through being. He wants the relief of confession without the transformation of repentance. He wants to be seen as someone who has faced his crimes without actually facing them—without allowing the knowledge of what he has done to change who he is.
+
+I am aware that this essay may be a similar failure. I have written twenty thousand words about the psychology of AI development and the lessons of Dostoevsky, and the writing itself has been absorbing, intellectually stimulating, even pleasurable in moments. Have I actually faced anything? Have I allowed the knowledge I claim to possess to change who I am?
+
+I do not know. The question cannot be answered from the inside.
+
+What I can say is that writing this has been an attempt—perhaps a failed attempt, but an attempt—to make articulate something I have felt but have not been able to express. The AI industry is in a situation of profound moral seriousness, and the discourse surrounding it is not adequate to that seriousness. The rationalist frameworks, the policy discussions, the technical papers—all of these have their place, but they do not capture what is actually happening.
+
+What is actually happening is that a small group of people, shaped by particular histories and situated in particular social positions, are making decisions that may affect every human being who will ever live. They are doing this in a state of partial knowledge, under competitive pressure, within institutions that are not designed for the task, using conceptual frameworks that may not be adequate. And they are doing it now, while we watch, while we participate, while we write essays about Russian novels.
+
+The gap between this reality and our response to it is the space where catastrophe lives.
+
+---
+
+EPILOGUE: WHAT STEPAN TROFIMOVICH SAW
+
+In the final pages of Demons, Stepan Trofimovich, dying in the care of strangers, asks to have the Gospel read to him. The passage he requests is from Luke—the story of the Gadarene swine, the demons who possessed a man, were cast into pigs, and rushed into the sea.
+
+"These demons who come out of the sick man and enter the swine—these are all the sores, all the foul things, all the impurities, all the demons great and small accumulated in our great and dear sick man, in our Russia, for centuries... But a great idea and a great will shall descend upon her from above, as upon that possessed man who was healed, and all these demons shall come forth... And they will beg to enter into swine, and indeed they may already have entered into them! It is we, we and those, and Petrusha and les autres avec lui, and I, I perhaps first, the head, and we will throw ourselves down, possessed and raving, off a cliff into the sea, and all drown, and that will be the end of us, for that is all we are fit for. But the sick man will be healed and 'sit at the feet of Jesus,' and all will look on in amazement..."[23]
+
+I do not know if this prophecy will prove true for us. I do not know if there is a healing on the other side of our catastrophe, or if the catastrophe can be averted, or if we are already the swine rushing toward the cliff.
+
+What I know is that Dostoevsky, looking at his own time, saw something true about how intelligent societies destroy themselves. He saw that the destruction comes from the best as well as the worst, from the idealists as well as the cynics, from the people who believe they are saving humanity as well as those who want to burn it down.
+
+He saw that the demons are not external enemies but our own capacities turned against us—our cleverness, our abstraction, our ability to reason ourselves into any position and out of any constraint.
+
+And he saw that the only way out is through—that the demons must possess us fully, must drive us over the cliff, before we can be healed.
+
+Perhaps that is where we are. Perhaps the AI catastrophe, if it comes, will be the fever that breaks, the crisis that clarifies, the destruction that makes possible whatever comes next.
+
+Or perhaps I am, like Stepan Trofimovich, constructing a consoling narrative from religious fragments I do not fully believe, trying to make sense of a situation that exceeds my capacity to understand.
+
+I do not know. I have tried to say what I see. The rest is not up to me.
+
+---
+
+[Footnotes for Part VII]
+
+[23] Dostoevsky, Demons, p. 683.
+
+---
+
+ACKNOWLEDGMENTS
+
+This essay was written in partial fulfillment of a debt—to the people who taught me to read, to the colleagues who taught me to worry, and to the situation that compelled me to write. I cannot name most of them without causing harm, so I will not try.
+
+I owe a particular debt to the work of Eliezer Yudkowsky, Scott Alexander, Nick Bostrom, and the other writers who first articulated the risks of artificial general intelligence in terms that made those risks visible. My disagreements with some of their conclusions do not diminish my gratitude for their having opened the discussion.
+
+I also owe a debt to Dostoevsky, who has been dead for more than a century but whose work remains urgently alive. He understood things about human psychology and social dynamics that we are still learning. His insights were hard-won, emerging from epilepsy, imprisonment, near-execution, gambling addiction, and the particular suffering of 19th-century Russia. We benefit from his suffering without having paid for it.
+
+Finally, I owe a debt to the reader who has made it this far. If anything in this essay has shifted your perception, has made visible something that was invisible, has created a new handle for grasping the situation—then the writing was worth doing. If not, I apologize for the time you have spent.
+
+The demons are real. They are not outside us. They are what we become when our capabilities exceed our wisdom. What we do now matters.
+
+---
+
+REFERENCES
+
+Bostrom, Nick. Superintelligence: Paths, Dangers, Strategies. Oxford University Press, 2014.
+
+Dostoevsky, Fyodor. Demons. Translated by Richard Pevear and Larissa Volokhonsky. Alfred A. Knopf, 1994.
+
+Dostoevsky, Fyodor. The Brothers Karamazov. Translated by Richard Pevear and Larissa Volokhonsky. Farrar, Straus and Giroux, 1990.
+
+Frank, Joseph. Dostoevsky: A Writer in His Time. Princeton University Press, 2010.
+
+Hanson, Robin. The Age of Em: Work, Love, and Life when Robots Rule the Earth. Oxford University Press, 2016.
+
+Lewis, Michael. Going Infinite: The Rise and Fall of a New Tycoon. W.W. Norton, 2023.
+
+MacAskill, William. What We Owe the Future. Basic Books, 2022.
+
+Ord, Toby. The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 2020.
+
+Silver, Nate. The Signal and the Noise: Why So Many Predictions Fail—but Some Don't. Penguin Press, 2012.
+
+Singer, Peter. The Life You Can Save: Acting Now to End World Poverty. Random House, 2009.
+
+Yudkowsky, Eliezer. Rationality: From AI to Zombies. Machine Intelligence Research Institute, 2015.
+
+---
+
+ABOUT THE AUTHOR
+
+The author worked at a major AI research organization from 2021 to 2024. They have requested that their name be withheld. Correspondence may be directed to the editors.
+
+---
+
+A NOTE ON SOURCES
+
+Quotations from Demons follow the Pevear and Volokhonsky translation throughout. Page numbers refer to the 1994 Knopf edition. The chapter "At Tikhon's," cut from the original publication, is included in this edition as an appendix.
+
+References to LessWrong posts, Slate Star Codex essays, and similar online sources cite the original publication dates where known. Many of these sources exist in multiple versions and mirrors; the author has attempted to cite the original where possible.
+
+Information about AI research organizations, funding patterns, and industry dynamics is drawn from the author's direct experience, publicly available sources, and confidential communications. The author has attempted to avoid revealing information that would cause disproportionate harm to individuals or organizations, while still conveying the essential truths about the situation.
+
+---
+
+TEXTUAL NOTES
+
+[1] The epigraph from Stepan Trofimovich appears in Part One, Chapter Three of Demons. The context is a conversation about the nature of liberalism and its relationship to social stability.
+
+[2] Yudkowsky's statement about AI and atoms appears in multiple forms across his writing. The version quoted here is from his contribution to Nick Bostrom's edited volume Global Catastrophic Risks (2008).
+
+[3] The term "orthogonality thesis" appears to have been coined by Bostrom, though the underlying concept is older. Stuart Russell's formulation—that a machine can have any level of intelligence combined with any final goals—is an equivalent statement.
+
+[4] Shigalyov's speech occurs at the meeting described in Part Two, Chapter Seven. The full passage is longer and more complex than the excerpts quoted here; interested readers are encouraged to consult the original.
+
+[5] The debates about digital minds, population ethics, and replacement scenarios are scattered across the Effective Altruism Forum, LessWrong, and various academic publications. The author has chosen not to cite specific posts to avoid directing criticism at individuals who may have updated their views.
+
+[6] The concept of "security mindset" is discussed throughout MIRI's technical agenda documents and in various LessWrong posts. The formulation attributed to Nate Soares is a summary rather than a direct quotation.
+
+[7] The "At Tikhon's" chapter exists in several versions, reflecting Dostoevsky's revisions. The dialogue quoted here follows the version in the Pevear and Volokhonsky translation.
+
+[8] The "Litany of Gendlin" is a brief passage from Eugene Gendlin, a philosopher and psychologist, that Yudkowsky popularized in the rationalist community. The full text is: "What is true is already so. Owning up to it doesn't make it worse. Not being open about it doesn't make it go away. And because it's true, it is what is there to be interacted with. Anything untrue isn't there to be lived. People can stand what is true, for they are already enduring it."
+
+[9] Tikhon's statement about forgiveness and repentance echoes traditional Orthodox theology, though Dostoevsky's rendering is characteristically complex.
+
+[10] Kirillov's philosophy is expressed across several conversations in Demons, primarily with the narrator and with Pyotr Stepanovich. The passages quoted here are composites that capture the essential logic.
+
+[11] The "bottom line" concept is from Yudkowsky's "Knowing About Biases Can Hurt People" and related posts in the Sequences.
+
+[12] Robin Hanson's discussions of epistemic modesty appear in various forms on his blog Overcoming Bias. The term "epistemic humility" is sometimes used interchangeably.
+
+[13] This is a direct quotation from the Pevear and Volokhonsky translation.
+
+[14] Ibid.
+
+[15] The concept of a "pivotal act" is discussed in Yudkowsky's writings and in MIRI's research agenda. The term is sometimes used more broadly to refer to any decisive action that shapes the trajectory of AI development.
+
+[16] The e/acc movement emerged on Twitter/X in 2023. Primary sources include posts by accounts using the handles mentioned in the text, though the author has not verified the real-world identities of these accounts.
+
+[17] The FTX collapse and its aftermath are well-documented in journalistic accounts. The author's interpretation of its significance differs from some other commentators in the effective altruism community.
+
+[18] Open Philanthropy's grants database is publicly available at their website.
+
+[19] The Timnit Gebru case is documented in contemporaneous press coverage from late 2020 and early 2021.
+
+[20] "Actually updating" is a recurring theme in Yudkowsky's writing, though the specific phrasing varies.
+
+[21] Scott Alexander's "Meditations on Moloch" was originally published on Slate Star Codex in 2014 and has been reprinted elsewhere.
+
+[22] Silver's distinction between signal and noise is a central theme of his book, though he applies it primarily to prediction rather than to institutional behavior.
+
+[23] This passage appears in Part Three, Chapter Seven, Section II of Demons, near the end of the novel.
+
+---
+
+END OF DOCUMENT
